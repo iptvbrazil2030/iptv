@@ -57,6 +57,9 @@ MAX_FILE_BYTES = 20 * 1024 * 1024
 # o link de outro servidor. Para ter mais um nivel, adicione "reserva2".
 MIRRORS = ["", "reserva"]
 
+# Conteudo adulto (canais e filmes): False = removido de todas as listas
+INCLUDE_ADULT = False
+
 # Teste de saude: a cada execucao testa HEALTH_SAMPLES links de cada fonte.
 # Fonte com menos de HEALTH_MIN funcionando e ignorada (conta expirada/servidor fora).
 HEALTH_SAMPLES = 8
@@ -186,9 +189,18 @@ def norm_title(t):
     return re.sub(r"\s+", " ", t).strip().casefold()
 
 
-def classify(url, group):
+# Canais adultos conhecidos que podem aparecer fora de um grupo "adultos"
+ADULT_CHANNEL_RE = re.compile(
+    r"\b(playboy tv|sexy ?hot|venus|private|brazzers|hustler|dorcel|penthouse|redlight|"
+    r"sextreme|for ?man|xxx)\b", re.I)
+
+
+def classify(url, group, title=""):
     u = url.lower().split("?")[0]
     if re.search(r"xxx|adult|\+18|18\+", group, re.I):
+        return "adultos"
+    is_live = u.endswith((".ts", ".m3u8")) or not re.search(r"\.\w{2,4}$", u)
+    if is_live and "/movie/" not in u and "/series/" not in u and ADULT_CHANNEL_RE.search(title):
         return "adultos"
     if "/series/" in u:
         return "series"
@@ -303,7 +315,7 @@ def build(order=SOURCES):
     """
     seen_urls, by_key = set(), {}
     out = {}
-    total = dup = 0
+    total = dup = adult = 0
     for url in order:
         path = cache_path(url)
         if not path.exists():
@@ -311,7 +323,10 @@ def build(order=SOURCES):
         for title, attrs, link in parse_m3u(path):
             total += 1
             group = norm_group(attrs.get("group-title", ""))
-            kind = classify(link, group)
+            kind = classify(link, group, title)
+            if kind == "adultos" and not INCLUDE_ADULT:
+                adult += 1
+                continue
             key = (kind, norm_title(title))
             if link in seen_urls:
                 dup += 1
@@ -329,8 +344,8 @@ def build(order=SOURCES):
             by_key[key] = entry
             out.setdefault(kind, {}).setdefault(group, []).append(entry)
     with_alt = sum(1 for e in by_key.values() if len(e[1]) > 1)
-    log.info("Entradas lidas: %d | repetidas removidas: %d | unicas: %d | com servidor reserva: %d",
-             total, dup, total - dup, with_alt)
+    log.info("Entradas lidas: %d | adultos removidos: %d | repetidas removidas: %d | unicas: %d"
+             " | com servidor reserva: %d", total, adult, dup, total - adult - dup, with_alt)
     return out
 
 

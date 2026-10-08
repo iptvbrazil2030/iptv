@@ -1,590 +1,396 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E07
-http://149.102.252.201:80/series/171350/B89tAq/398806.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E06
-http://149.102.252.201:80/series/171350/B89tAq/398805.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E05
-http://149.102.252.201:80/series/171350/B89tAq/398804.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E04
-http://149.102.252.201:80/series/171350/B89tAq/398803.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E03
-http://149.102.252.201:80/series/171350/B89tAq/398802.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E02
-http://149.102.252.201:80/series/171350/B89tAq/398801.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E01
-http://149.102.252.201:80/series/171350/B89tAq/398798.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4tMiBqdmpipwzs2u05EbOvo5Aa.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Raio X Guerra do Ira (2026) S01E02
-http://149.102.252.201:80/series/171350/B89tAq/372190.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4tMiBqdmpipwzs2u05EbOvo5Aa.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Raio X Guerra do Ira (2026) S01E01
-http://149.102.252.201:80/series/171350/B89tAq/372189.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin (2026) S01E03
-http://149.102.252.201:80/series/171350/B89tAq/369250.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin (2026) S01E02
-http://149.102.252.201:80/series/171350/B89tAq/368834.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin (2026) S01E01
-http://149.102.252.201:80/series/171350/B89tAq/368833.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E05
-http://149.102.252.201:80/series/171350/B89tAq/366624.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E04
-http://149.102.252.201:80/series/171350/B89tAq/366623.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E03
-http://149.102.252.201:80/series/171350/B89tAq/366622.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E02
-http://149.102.252.201:80/series/171350/B89tAq/366621.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E01
-http://149.102.252.201:80/series/171350/B89tAq/366620.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E12
-http://149.102.252.201:80/series/171350/B89tAq/365769.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E11
-http://149.102.252.201:80/series/171350/B89tAq/365768.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E10
-http://149.102.252.201:80/series/171350/B89tAq/365767.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E09
-http://149.102.252.201:80/series/171350/B89tAq/365766.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E08
-http://149.102.252.201:80/series/171350/B89tAq/365765.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E07
-http://149.102.252.201:80/series/171350/B89tAq/365764.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E06
-http://149.102.252.201:80/series/171350/B89tAq/365763.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E05
-http://149.102.252.201:80/series/171350/B89tAq/365762.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E04
-http://149.102.252.201:80/series/171350/B89tAq/365761.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E03
-http://149.102.252.201:80/series/171350/B89tAq/365760.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E02
-http://149.102.252.201:80/series/171350/B89tAq/365759.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E01
-http://149.102.252.201:80/series/171350/B89tAq/365758.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E09
-http://149.102.252.201:80/series/171350/B89tAq/365421.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E08
-http://149.102.252.201:80/series/171350/B89tAq/365420.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E07
-http://149.102.252.201:80/series/171350/B89tAq/365419.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E06
-http://149.102.252.201:80/series/171350/B89tAq/365418.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E05
-http://149.102.252.201:80/series/171350/B89tAq/365417.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E04
-http://149.102.252.201:80/series/171350/B89tAq/365416.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E03
-http://149.102.252.201:80/series/171350/B89tAq/365415.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E02
-http://149.102.252.201:80/series/171350/B89tAq/365414.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E01
-http://149.102.252.201:80/series/171350/B89tAq/365413.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E05
-http://149.102.252.201:80/series/171350/B89tAq/365135.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E04
-http://149.102.252.201:80/series/171350/B89tAq/365134.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E03
-http://149.102.252.201:80/series/171350/B89tAq/365133.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E02
-http://149.102.252.201:80/series/171350/B89tAq/365132.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E01
-http://149.102.252.201:80/series/171350/B89tAq/365131.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E05
-http://149.102.252.201:80/series/171350/B89tAq/364693.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E04
-http://149.102.252.201:80/series/171350/B89tAq/364692.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E03
-http://149.102.252.201:80/series/171350/B89tAq/364691.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E02
-http://149.102.252.201:80/series/171350/B89tAq/364690.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E01
-http://149.102.252.201:80/series/171350/B89tAq/364689.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E09
-http://149.102.252.201:80/series/171350/B89tAq/362719.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E08
-http://149.102.252.201:80/series/171350/B89tAq/362718.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E07
-http://149.102.252.201:80/series/171350/B89tAq/362717.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E06
-http://149.102.252.201:80/series/171350/B89tAq/362716.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E05
-http://149.102.252.201:80/series/171350/B89tAq/362715.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E04
-http://149.102.252.201:80/series/171350/B89tAq/362714.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E03
-http://149.102.252.201:80/series/171350/B89tAq/362713.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E02
-http://149.102.252.201:80/series/171350/B89tAq/362712.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E01
-http://149.102.252.201:80/series/171350/B89tAq/362711.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E17
-http://149.102.252.201:80/series/171350/B89tAq/362710.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E16
-http://149.102.252.201:80/series/171350/B89tAq/362709.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E15
-http://149.102.252.201:80/series/171350/B89tAq/362708.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E14
-http://149.102.252.201:80/series/171350/B89tAq/362707.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E13
-http://149.102.252.201:80/series/171350/B89tAq/362706.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E12
-http://149.102.252.201:80/series/171350/B89tAq/362705.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E11
-http://149.102.252.201:80/series/171350/B89tAq/362704.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E10
-http://149.102.252.201:80/series/171350/B89tAq/362703.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E09
-http://149.102.252.201:80/series/171350/B89tAq/362702.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E08
-http://149.102.252.201:80/series/171350/B89tAq/362701.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E07
-http://149.102.252.201:80/series/171350/B89tAq/362700.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E06
-http://149.102.252.201:80/series/171350/B89tAq/362699.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E05
-http://149.102.252.201:80/series/171350/B89tAq/362698.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E04
-http://149.102.252.201:80/series/171350/B89tAq/362697.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E03
-http://149.102.252.201:80/series/171350/B89tAq/362696.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E02
-http://149.102.252.201:80/series/171350/B89tAq/362695.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E01
-http://149.102.252.201:80/series/171350/B89tAq/362694.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E29
-http://149.102.252.201:80/series/171350/B89tAq/362651.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E28
-http://149.102.252.201:80/series/171350/B89tAq/362650.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E27
-http://149.102.252.201:80/series/171350/B89tAq/362649.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E26
-http://149.102.252.201:80/series/171350/B89tAq/362648.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E25
-http://149.102.252.201:80/series/171350/B89tAq/362647.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E24
-http://149.102.252.201:80/series/171350/B89tAq/362646.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E23
-http://149.102.252.201:80/series/171350/B89tAq/362645.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E22
-http://149.102.252.201:80/series/171350/B89tAq/362644.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E21
-http://149.102.252.201:80/series/171350/B89tAq/362643.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E20
-http://149.102.252.201:80/series/171350/B89tAq/362642.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E19
-http://149.102.252.201:80/series/171350/B89tAq/362641.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E18
-http://149.102.252.201:80/series/171350/B89tAq/362640.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E17
-http://149.102.252.201:80/series/171350/B89tAq/362639.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E16
-http://149.102.252.201:80/series/171350/B89tAq/362638.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E15
-http://149.102.252.201:80/series/171350/B89tAq/362637.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E14
-http://149.102.252.201:80/series/171350/B89tAq/362636.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E13
-http://149.102.252.201:80/series/171350/B89tAq/362635.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E12
-http://149.102.252.201:80/series/171350/B89tAq/362634.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E11
-http://149.102.252.201:80/series/171350/B89tAq/362633.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E10
-http://149.102.252.201:80/series/171350/B89tAq/362632.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E09
-http://149.102.252.201:80/series/171350/B89tAq/362631.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E08
-http://149.102.252.201:80/series/171350/B89tAq/362630.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E07
-http://149.102.252.201:80/series/171350/B89tAq/362629.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E06
-http://149.102.252.201:80/series/171350/B89tAq/362628.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E05
-http://149.102.252.201:80/series/171350/B89tAq/362627.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E04
-http://149.102.252.201:80/series/171350/B89tAq/362626.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E03
-http://149.102.252.201:80/series/171350/B89tAq/362625.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E02
-http://149.102.252.201:80/series/171350/B89tAq/362624.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juvi0FpYppE5sithFjki1QY01Fj.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E01
-http://149.102.252.201:80/series/171350/B89tAq/362623.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1iIl4hRvbHrLduJ0Mb6mG8KpKx.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Fascismo S01E03
-http://149.102.252.201:80/series/171350/B89tAq/343407.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz4bc8IHZ4w72lWnr2eqCGp9jnu.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Fascismo S01E02
-http://149.102.252.201:80/series/171350/B89tAq/341982.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jz4bc8IHZ4w72lWnr2eqCGp9jnu.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Fascismo S01E01
-http://149.102.252.201:80/series/171350/B89tAq/341981.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/xeWgf2RagCCMdgXJwpDJc2DH8ZD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Amada e Ultrajada O Exercito na Historia do Brasil S01E03
-http://149.102.252.201:80/series/171350/B89tAq/295998.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6O313iozkUedAvvvb1eafXbGyN.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Unitopia S01E02
-http://149.102.252.201:80/series/171350/B89tAq/286528.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6O313iozkUedAvvvb1eafXbGyN.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Unitopia S01E01
-http://149.102.252.201:80/series/171350/B89tAq/286527.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E22
-http://149.102.252.201:80/series/171350/B89tAq/283449.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E21
-http://149.102.252.201:80/series/171350/B89tAq/283448.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E20
-http://149.102.252.201:80/series/171350/B89tAq/283447.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E19
-http://149.102.252.201:80/series/171350/B89tAq/283446.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E18
-http://149.102.252.201:80/series/171350/B89tAq/283445.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E17
-http://149.102.252.201:80/series/171350/B89tAq/283444.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E16
-http://149.102.252.201:80/series/171350/B89tAq/283443.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E15
-http://149.102.252.201:80/series/171350/B89tAq/283442.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E14
-http://149.102.252.201:80/series/171350/B89tAq/283441.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E13
-http://149.102.252.201:80/series/171350/B89tAq/283440.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E12
-http://149.102.252.201:80/series/171350/B89tAq/283439.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E11
-http://149.102.252.201:80/series/171350/B89tAq/283438.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E10
-http://149.102.252.201:80/series/171350/B89tAq/283437.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E09
-http://149.102.252.201:80/series/171350/B89tAq/283436.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E08
-http://149.102.252.201:80/series/171350/B89tAq/283435.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E07
-http://149.102.252.201:80/series/171350/B89tAq/283434.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E06
-http://149.102.252.201:80/series/171350/B89tAq/283433.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E05
-http://149.102.252.201:80/series/171350/B89tAq/283432.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E04
-http://149.102.252.201:80/series/171350/B89tAq/283431.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E03
-http://149.102.252.201:80/series/171350/B89tAq/283430.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E02
-http://149.102.252.201:80/series/171350/B89tAq/283429.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLU9ztEbxqJ9yBoGKvOQ8ZT5nF.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E01
-http://149.102.252.201:80/series/171350/B89tAq/283428.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AME8ni0dyf3VqI10Z8ivZHG4w1.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E23
-http://149.102.252.201:80/series/171350/B89tAq/283427.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D2wGpvNTWxuMelpLQyCv3vcVOK.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E22
-http://149.102.252.201:80/series/171350/B89tAq/283426.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ympX79ejKknXxldk8yWr8uxWJga.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E21
-http://149.102.252.201:80/series/171350/B89tAq/283425.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fas0f50PvpeeRf5eoH1htvIG7t.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E20
-http://149.102.252.201:80/series/171350/B89tAq/283424.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4M5UvNow0eylGm2SuthvqYvLy8.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E19
-http://149.102.252.201:80/series/171350/B89tAq/283423.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rW19bx19XQrTy7qikMkpOXccdFQ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E18
-http://149.102.252.201:80/series/171350/B89tAq/283422.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XDiVMOG5ERrftevc0W8lHyFiWT.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E17
-http://149.102.252.201:80/series/171350/B89tAq/283421.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2fnNz0gx1AIHkTtHpqFWbcfJ2Y.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E16
-http://149.102.252.201:80/series/171350/B89tAq/283420.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsnIcnYebrMtBBbdsOJQRal6R8S.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E15
-http://149.102.252.201:80/series/171350/B89tAq/283419.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1xap8frgEr489lTh5TADDxJTjo.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E14
-http://149.102.252.201:80/series/171350/B89tAq/283418.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl6ut7vFEl694gGFMUDa8Pcda4.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E13
-http://149.102.252.201:80/series/171350/B89tAq/283417.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCVQPv1ceWc5ScTi0od653BMd61.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E12
-http://149.102.252.201:80/series/171350/B89tAq/283416.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/54jDgOGSbG4zouRFkBfwXNAFcZ8.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E11
-http://149.102.252.201:80/series/171350/B89tAq/283415.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1NL6d06sH2Nz2mRQzAQPeVs5oS.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E10
-http://149.102.252.201:80/series/171350/B89tAq/283414.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKiK10KC1OejEIdtYjw1ZEuoSbw.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E09
-http://149.102.252.201:80/series/171350/B89tAq/283413.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yH40hOcYRvXLUThflxKVkHLwI9G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E08
-http://149.102.252.201:80/series/171350/B89tAq/283412.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpSH3mUE9dG8KWd32iWuWVzL7A6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E07
-http://149.102.252.201:80/series/171350/B89tAq/283411.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWGfpfceZJMQUWoJyEunsxp1GXN.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E06
-http://149.102.252.201:80/series/171350/B89tAq/283410.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VMEXnsZYeUrwhKsqQSmIi4K4Tm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E05
-http://149.102.252.201:80/series/171350/B89tAq/283409.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPrtM3WKVpaIaeT60DxxohXDPFv.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E04
-http://149.102.252.201:80/series/171350/B89tAq/283408.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUXjwKsmT2EuNGTtfeDrazG9XZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E03
-http://149.102.252.201:80/series/171350/B89tAq/283407.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sOXPyjbfk1tgxbtFEkqVf1kvkt.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E02
-http://149.102.252.201:80/series/171350/B89tAq/283406.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40tbcqfW0ZXM3FpaCz0LVTsNra6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E01
-http://149.102.252.201:80/series/171350/B89tAq/283405.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNb6fr6zUawOsOmEShQ8U2ROuiu.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Amada e Ultrajada O Exercito na Historia do Brasil S01E02
-http://149.102.252.201:80/series/171350/B89tAq/281771.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNb6fr6zUawOsOmEShQ8U2ROuiu.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Amada e Ultrajada O Exercito na Historia do Brasil S01E01
-http://149.102.252.201:80/series/171350/B89tAq/281770.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m8NOsBXCun7bExkJH9FfgNVtfE.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E05
-http://149.102.252.201:80/series/171350/B89tAq/267355.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m8NOsBXCun7bExkJH9FfgNVtfE.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E04
-http://149.102.252.201:80/series/171350/B89tAq/267354.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m8NOsBXCun7bExkJH9FfgNVtfE.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E03
-http://149.102.252.201:80/series/171350/B89tAq/267353.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m8NOsBXCun7bExkJH9FfgNVtfE.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E02
-http://149.102.252.201:80/series/171350/B89tAq/267352.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m8NOsBXCun7bExkJH9FfgNVtfE.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E01
-http://149.102.252.201:80/series/171350/B89tAq/267351.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apr5o6p2yc1jNeXaZZfUpvwEuFK.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E06
-http://149.102.252.201:80/series/171350/B89tAq/265586.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEaJMfwQ1HY2WyQn5OFRMJV7oN6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E05
-http://149.102.252.201:80/series/171350/B89tAq/256562.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEaJMfwQ1HY2WyQn5OFRMJV7oN6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E04
-http://149.102.252.201:80/series/171350/B89tAq/256561.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BuGcpN7JKvrtOfb3O2x0SZSvXA.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E03
-http://149.102.252.201:80/series/171350/B89tAq/253443.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BuGcpN7JKvrtOfb3O2x0SZSvXA.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E02
-http://149.102.252.201:80/series/171350/B89tAq/253442.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BuGcpN7JKvrtOfb3O2x0SZSvXA.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E01
-http://149.102.252.201:80/series/171350/B89tAq/253441.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E10
-http://149.102.252.201:80/series/171350/B89tAq/219633.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E09
-http://149.102.252.201:80/series/171350/B89tAq/219632.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E08
-http://149.102.252.201:80/series/171350/B89tAq/219631.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E07
-http://149.102.252.201:80/series/171350/B89tAq/219630.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E06
-http://149.102.252.201:80/series/171350/B89tAq/219629.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E05
-http://149.102.252.201:80/series/171350/B89tAq/219628.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E04
-http://149.102.252.201:80/series/171350/B89tAq/219627.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E03
-http://149.102.252.201:80/series/171350/B89tAq/219626.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E02
-http://149.102.252.201:80/series/171350/B89tAq/219625.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYgn1YmLc4WmdF5L7O18y2BRxvD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E01
-http://149.102.252.201:80/series/171350/B89tAq/219624.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAGTuB9HKMnVOY8D56PQt7IWAhm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E04
-http://149.102.252.201:80/series/171350/B89tAq/217175.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/tClYz1EjI79iSPgYLdWbVqlQKUz.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E03
-http://149.102.252.201:80/series/171350/B89tAq/205859.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/tddzRELfd45ZWGEu6komcGBg1Zp.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E02
-http://149.102.252.201:80/series/171350/B89tAq/204879.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E08
-http://149.102.252.201:80/series/171350/B89tAq/202557.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E07
-http://149.102.252.201:80/series/171350/B89tAq/202556.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E06
-http://149.102.252.201:80/series/171350/B89tAq/202555.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E05
-http://149.102.252.201:80/series/171350/B89tAq/202554.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E04
-http://149.102.252.201:80/series/171350/B89tAq/202553.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E03
-http://149.102.252.201:80/series/171350/B89tAq/202552.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E02
-http://149.102.252.201:80/series/171350/B89tAq/202551.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E01
-http://149.102.252.201:80/series/171350/B89tAq/202550.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E05
-http://149.102.252.201:80/series/171350/B89tAq/202549.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E04
-http://149.102.252.201:80/series/171350/B89tAq/202548.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E03
-http://149.102.252.201:80/series/171350/B89tAq/202547.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E02
-http://149.102.252.201:80/series/171350/B89tAq/202546.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E01
-http://149.102.252.201:80/series/171350/B89tAq/202545.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2c0jP1AlNdR95Qzw0B6vFMKNzv.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Superfantástica História do Balão S01E03
-http://149.102.252.201:80/series/171350/B89tAq/202544.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3mIj9XW8uqlJ8wh8LNj9aOFLRu.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Superfantástica História do Balão S01E02
-http://149.102.252.201:80/series/171350/B89tAq/202543.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niCogAEQNjWPLaghwlYxlD9Hf6C.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Superfantástica História do Balão S01E01
-http://149.102.252.201:80/series/171350/B89tAq/202542.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pT2OLwbIXoDbtDndqKoEp59pbv.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Fantastica Fábrica da Sanidade S01E03
-http://149.102.252.201:80/series/171350/B89tAq/202541.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWBYOOplihgP4WLVva3AWrc5BZf.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Fantastica Fábrica da Sanidade S01E02
-http://149.102.252.201:80/series/171350/B89tAq/202540.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrgSnVbUO7EeK3otr41cCSjgO3J.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Fantastica Fábrica da Sanidade S01E01
-http://149.102.252.201:80/series/171350/B89tAq/202539.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrgSnVbUO7EeK3otr41cCSjgO3J.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E04
-http://149.102.252.201:80/series/171350/B89tAq/202538.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrgSnVbUO7EeK3otr41cCSjgO3J.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E03
-http://149.102.252.201:80/series/171350/B89tAq/202537.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrgSnVbUO7EeK3otr41cCSjgO3J.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E02
-http://149.102.252.201:80/series/171350/B89tAq/202536.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrgSnVbUO7EeK3otr41cCSjgO3J.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E01
-http://149.102.252.201:80/series/171350/B89tAq/202535.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E01
-http://149.102.252.201:80/series/171350/B89tAq/202479.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E08
-http://149.102.252.201:80/series/171350/B89tAq/202478.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E07
-http://149.102.252.201:80/series/171350/B89tAq/202477.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E06
-http://149.102.252.201:80/series/171350/B89tAq/202476.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E05
-http://149.102.252.201:80/series/171350/B89tAq/202475.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E04
-http://149.102.252.201:80/series/171350/B89tAq/202474.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E03
-http://149.102.252.201:80/series/171350/B89tAq/202473.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E02
-http://149.102.252.201:80/series/171350/B89tAq/202472.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E01
-http://149.102.252.201:80/series/171350/B89tAq/202471.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E10
-http://149.102.252.201:80/series/171350/B89tAq/202470.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E09
-http://149.102.252.201:80/series/171350/B89tAq/202469.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E08
-http://149.102.252.201:80/series/171350/B89tAq/202468.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E07
-http://149.102.252.201:80/series/171350/B89tAq/202467.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E06
-http://149.102.252.201:80/series/171350/B89tAq/202466.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E05
-http://149.102.252.201:80/series/171350/B89tAq/202465.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E04
-http://149.102.252.201:80/series/171350/B89tAq/202464.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E03
-http://149.102.252.201:80/series/171350/B89tAq/202463.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E02
-http://149.102.252.201:80/series/171350/B89tAq/202462.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSr8pYlPh4jOxAtXegXwpXI6jP.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E01
-http://149.102.252.201:80/series/171350/B89tAq/202461.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgChD0wBedAWM4lBQ9WdNwJNLD1.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Direita no Brasil S01E03
-http://149.102.252.201:80/series/171350/B89tAq/189551.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgChD0wBedAWM4lBQ9WdNwJNLD1.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Direita no Brasil S01E02
-http://149.102.252.201:80/series/171350/B89tAq/189550.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgChD0wBedAWM4lBQ9WdNwJNLD1.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Direita no Brasil S01E01
-http://149.102.252.201:80/series/171350/B89tAq/189549.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E05
-http://149.102.252.201:80/series/171350/B89tAq/184738.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tS1tW4SBpVLxN96OxLOV3q5q9oz.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E04
-http://149.102.252.201:80/series/171350/B89tAq/184737.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4PN2YRnJQvnbJGu6e9V3hu3NR9.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E03
-http://149.102.252.201:80/series/171350/B89tAq/184736.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzve7YALKxzOgG9WpU5ZJNK0Ons.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E02
-http://149.102.252.201:80/series/171350/B89tAq/184735.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9F6G7KijlalWM5ChQSIZqcIxi3.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E01
-http://149.102.252.201:80/series/171350/B89tAq/184734.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E06
-http://149.102.252.201:80/series/171350/B89tAq/182684.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E05
-http://149.102.252.201:80/series/171350/B89tAq/182683.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E04
-http://149.102.252.201:80/series/171350/B89tAq/182682.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E03
-http://149.102.252.201:80/series/171350/B89tAq/182681.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E02
-http://149.102.252.201:80/series/171350/B89tAq/182680.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E01
-http://149.102.252.201:80/series/171350/B89tAq/182679.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4FdLgH6eJn3EoXX1JVH7wy026S.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pátria Educadora S01E03
-http://149.102.252.201:80/series/171350/B89tAq/179953.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4FdLgH6eJn3EoXX1JVH7wy026S.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pátria Educadora S01E02
-http://149.102.252.201:80/series/171350/B89tAq/179952.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4FdLgH6eJn3EoXX1JVH7wy026S.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pátria Educadora S01E01
-http://149.102.252.201:80/series/171350/B89tAq/179951.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E08
-http://149.102.252.201:80/series/171350/B89tAq/179916.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E07
-http://149.102.252.201:80/series/171350/B89tAq/179915.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E06
-http://149.102.252.201:80/series/171350/B89tAq/179914.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E05
-http://149.102.252.201:80/series/171350/B89tAq/179913.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E04
-http://149.102.252.201:80/series/171350/B89tAq/179912.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E03
-http://149.102.252.201:80/series/171350/B89tAq/179911.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E02
-http://149.102.252.201:80/series/171350/B89tAq/179910.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E01
-http://149.102.252.201:80/series/171350/B89tAq/179909.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E11
-http://149.102.252.201:80/series/171350/B89tAq/179908.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E10
-http://149.102.252.201:80/series/171350/B89tAq/179907.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E09
-http://149.102.252.201:80/series/171350/B89tAq/179906.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E08
-http://149.102.252.201:80/series/171350/B89tAq/179905.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E07
-http://149.102.252.201:80/series/171350/B89tAq/179904.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E06
-http://149.102.252.201:80/series/171350/B89tAq/179903.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E05
-http://149.102.252.201:80/series/171350/B89tAq/179902.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E04
-http://149.102.252.201:80/series/171350/B89tAq/179901.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E03
-http://149.102.252.201:80/series/171350/B89tAq/179900.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E02
-http://149.102.252.201:80/series/171350/B89tAq/179899.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njkEpIJEF0VTkA5QNgrnPXNxr5L.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E01
-http://149.102.252.201:80/series/171350/B89tAq/179898.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmegdRMBiw0PfxpWvCisdV38Pb.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Fim Das Nações S01E03
-http://149.102.252.201:80/series/171350/B89tAq/179885.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmegdRMBiw0PfxpWvCisdV38Pb.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Fim Das Nações S01E02
-http://149.102.252.201:80/series/171350/B89tAq/179884.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfmegdRMBiw0PfxpWvCisdV38Pb.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Fim Das Nações S01E01
-http://149.102.252.201:80/series/171350/B89tAq/179883.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E05
-http://149.102.252.201:80/series/171350/B89tAq/179869.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E04
-http://149.102.252.201:80/series/171350/B89tAq/179868.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E03
-http://149.102.252.201:80/series/171350/B89tAq/179867.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E02
-http://149.102.252.201:80/series/171350/B89tAq/179866.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E01
-http://149.102.252.201:80/series/171350/B89tAq/179865.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFnzsH8ZKfP1ylAgvKOjnaAqKug.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",As Grandes Minorias S01E03
-http://149.102.252.201:80/series/171350/B89tAq/179831.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFnzsH8ZKfP1ylAgvKOjnaAqKug.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",As Grandes Minorias S01E02
-http://149.102.252.201:80/series/171350/B89tAq/179830.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFnzsH8ZKfP1ylAgvKOjnaAqKug.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",As Grandes Minorias S01E01
-http://149.102.252.201:80/series/171350/B89tAq/179829.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snGue0mGq9WoLYni6UXwXuNegPh.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Queda Argentina S01E03
-http://149.102.252.201:80/series/171350/B89tAq/178884.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEdleDpuabrhoeMsRZfVyXQWL1Z.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Queda Argentina S01E02
-http://149.102.252.201:80/series/171350/B89tAq/178883.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Queda Argentina S01E01
-http://149.102.252.201:80/series/171350/B89tAq/178882.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUMDbcdOuNwl6MuCqvSkoWeGwMm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Primeira Arte S01E03
-http://149.102.252.201:80/series/171350/B89tAq/178881.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwBxW19Fg7kChPJyNMNKSkqEFfB.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Primeira Arte S01E02
-http://149.102.252.201:80/series/171350/B89tAq/178880.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSYcytTsdd8uRxJMtZmLh79VXsR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Primeira Arte S01E01
-http://149.102.252.201:80/series/171350/B89tAq/178879.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BaI9NeywOr6Ryr8kKSJmAOc47.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Fim da Beleza S01E03
-http://149.102.252.201:80/series/171350/B89tAq/178713.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BaI9NeywOr6Ryr8kKSJmAOc47.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Fim da Beleza S01E02
-http://149.102.252.201:80/series/171350/B89tAq/178712.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BaI9NeywOr6Ryr8kKSJmAOc47.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Fim da Beleza S01E01
-http://149.102.252.201:80/series/171350/B89tAq/178711.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E07
-http://149.102.252.201:80/series/171350/B89tAq/178615.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E06
-http://149.102.252.201:80/series/171350/B89tAq/178614.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E05
-http://149.102.252.201:80/series/171350/B89tAq/178613.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E04
-http://149.102.252.201:80/series/171350/B89tAq/178612.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E03
-http://149.102.252.201:80/series/171350/B89tAq/178611.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E02
-http://149.102.252.201:80/series/171350/B89tAq/178610.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMpJGjp0bQ4AJhS5WrdJFMiukZZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E01
-http://149.102.252.201:80/series/171350/B89tAq/178609.mp4
-#EXTINF:-1 tvg-logo="http://149.102.252.201/images/42735d67fc4297669acccd65b4dee27b.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E03
-http://149.102.252.201:80/series/171350/B89tAq/176319.mp4
-#EXTINF:-1 tvg-logo="http://149.102.252.201/images/42735d67fc4297669acccd65b4dee27b.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E02
-http://149.102.252.201:80/series/171350/B89tAq/176318.mp4
-#EXTINF:-1 tvg-logo="http://149.102.252.201/images/42735d67fc4297669acccd65b4dee27b.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E01
-http://149.102.252.201:80/series/171350/B89tAq/176317.mp4
-#EXTINF:-1 tvg-logo="http://149.102.252.201/images/034eb7b810ee327600ceaf2ca9239627.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Entre Lobos S01E03
-http://149.102.252.201:80/series/171350/B89tAq/163195.mp4
-#EXTINF:-1 tvg-logo="http://149.102.252.201/images/034eb7b810ee327600ceaf2ca9239627.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Entre Lobos S01E02
-http://149.102.252.201:80/series/171350/B89tAq/163194.mp4
-#EXTINF:-1 tvg-logo="http://149.102.252.201/images/034eb7b810ee327600ceaf2ca9239627.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Entre Lobos S01E01
-http://149.102.252.201:80/series/171350/B89tAq/163193.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3GFULU4wk74F8EwsVMA6isoRnaM.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin S01E01
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2100568.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/3GFULU4wk74F8EwsVMA6isoRnaM.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin S01E02
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2100569.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102145.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102146.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102147.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102148.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102149.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102150.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102151.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102152.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102153.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102154.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E11
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102155.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E12
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102156.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E13
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102157.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E14
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102158.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E15
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102159.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E16
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102160.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E17
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102161.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E18
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102162.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E19
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102163.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E20
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102164.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E21
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102165.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E22
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102166.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E23
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102167.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E24
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102168.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E25
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102169.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E26
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102170.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E27
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102171.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E28
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102172.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S01E29
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102173.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102174.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102175.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102176.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102177.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102178.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102179.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102180.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102181.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102182.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102183.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E11
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102184.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E12
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102185.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E13
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102186.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E14
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102187.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E15
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102188.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E16
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102189.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S02E17
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102190.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102191.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102192.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102193.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102194.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102195.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102196.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102197.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102198.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/tWq2kSnFFmQFKkFtSy2BzJdXVmZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Face Oculta S03E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2102199.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Unitopia S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268105.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Unitopia S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268106.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268107.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268108.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268109.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268110.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268111.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268112.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268113.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268114.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268115.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Stella Models S01E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268116.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pátria Educadora S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268141.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pátria Educadora S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268142.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pátria Educadora S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268143.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268144.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268145.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268146.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268147.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Pindorama S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268148.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Fim da Beleza S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268243.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Fim da Beleza S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268244.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Fim da Beleza S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268245.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268246.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268247.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268248.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268249.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268250.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268251.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268252.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Teatro das Tesouras S01E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268253.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268254.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268255.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268256.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268257.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",O Dia Depois da Eleição S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268258.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/40tbcqfW0ZXM3FpaCz0LVTsNra6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268317.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3sOXPyjbfk1tgxbtFEkqVf1kvkt.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268318.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nUXjwKsmT2EuNGTtfeDrazG9XZ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yPrtM3WKVpaIaeT60DxxohXDPFv.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268320.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4VMEXnsZYeUrwhKsqQSmIi4K4Tm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268321.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sWGfpfceZJMQUWoJyEunsxp1GXN.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268322.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lpSH3mUE9dG8KWd32iWuWVzL7A6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268323.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yH40hOcYRvXLUThflxKVkHLwI9G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268324.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oKiK10KC1OejEIdtYjw1ZEuoSbw.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268325.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/j1NL6d06sH2Nz2mRQzAQPeVs5oS.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268326.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/54jDgOGSbG4zouRFkBfwXNAFcZ8.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E11
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268327.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zCVQPv1ceWc5ScTi0od653BMd61.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E12
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268328.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xl6ut7vFEl694gGFMUDa8Pcda4.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E13
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268329.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/v1xap8frgEr489lTh5TADDxJTjo.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E14
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268330.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dsnIcnYebrMtBBbdsOJQRal6R8S.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E15
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268331.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y2fnNz0gx1AIHkTtHpqFWbcfJ2Y.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E16
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268332.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3XDiVMOG5ERrftevc0W8lHyFiWT.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E17
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268333.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rW19bx19XQrTy7qikMkpOXccdFQ.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E18
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268334.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b4M5UvNow0eylGm2SuthvqYvLy8.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E19
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268335.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4Fas0f50PvpeeRf5eoH1htvIG7t.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E20
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268336.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ympX79ejKknXxldk8yWr8uxWJga.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E21
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268337.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/D2wGpvNTWxuMelpLQyCv3vcVOK.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E22
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268338.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5AME8ni0dyf3VqI10Z8ivZHG4w1.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S01E23
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268339.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268340.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268341.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268342.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268343.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268344.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268345.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268346.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268347.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268348.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268349.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E11
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268350.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E12
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268351.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E13
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268352.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E14
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268353.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E15
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268354.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E16
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268355.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E17
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268356.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E18
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268357.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E19
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268358.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E20
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268359.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E21
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268360.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Joan de Arcadia S02E22
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268361.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268259.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268260.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268261.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268262.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268263.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268264.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268265.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268266.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268267.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S01E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268268.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268269.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268270.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268271.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268272.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268273.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268274.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268275.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S02E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268276.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268277.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268278.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268279.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S03E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268280.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268281.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268282.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268283.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268284.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Investigação Paralela S04E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268285.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268286.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268287.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268288.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268289.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268290.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Comunismo S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268291.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268292.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268293.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268294.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268295.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268296.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268297.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268298.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268299.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E09
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268300.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E10
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268301.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S01E11
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268302.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268303.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268304.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268305.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268306.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268307.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268308.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268309.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Insight BP S02E08
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268310.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Fim Das Nações S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268311.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Fim Das Nações S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268312.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Fim Das Nações S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268313.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Entre Lobos S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268314.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Entre Lobos S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268315.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Entre Lobos S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268316.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil- A Última Cruzada S01E01
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268362.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil- A Última Cruzada S01E02
@@ -595,12 +401,96 @@ http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268364.mp4
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268365.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/2D9Cs2jtJWnZsFna81a31ecmY3P.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil- A Última Cruzada S01E05
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268366.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/c9F6G7KijlalWM5ChQSIZqcIxi3.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268367.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yzve7YALKxzOgG9WpU5ZJNK0Ons.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268368.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/t4PN2YRnJQvnbJGu6e9V3hu3NR9.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268369.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tS1tW4SBpVLxN96OxLOV3q5q9oz.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268370.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil Raiz S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268371.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",As Grandes Minorias S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268379.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",As Grandes Minorias S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268380.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",As Grandes Minorias S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268381.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268372.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268373.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268374.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268375.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268376.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E06
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268377.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Sétima Arte S01E07
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268378.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/niCogAEQNjWPLaghwlYxlD9Hf6C.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Superfantástica História do Balão S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268382.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/w3mIj9XW8uqlJ8wh8LNj9aOFLRu.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Superfantástica História do Balão S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268383.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/g2c0jP1AlNdR95Qzw0B6vFMKNzv.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Superfantástica História do Balão S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268384.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tSYcytTsdd8uRxJMtZmLh79VXsR.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Primeira Arte S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268385.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bwBxW19Fg7kChPJyNMNKSkqEFfB.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Primeira Arte S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268386.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vUMDbcdOuNwl6MuCqvSkoWeGwMm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Primeira Arte S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268387.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Queda Argentina S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268388.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zEdleDpuabrhoeMsRZfVyXQWL1Z.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Queda Argentina S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/snGue0mGq9WoLYni6UXwXuNegPh.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Queda Argentina S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268390.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/rrgSnVbUO7EeK3otr41cCSjgO3J.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Fantastica Fábrica da Sanidade S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268391.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kWBYOOplihgP4WLVva3AWrc5BZf.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Fantastica Fábrica da Sanidade S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268392.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7pT2OLwbIXoDbtDndqKoEp59pbv.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Fantastica Fábrica da Sanidade S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268393.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268394.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268395.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268396.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Crise dos Três Poderes S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268397.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Fascismo S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268398.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Fascismo S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268399.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Historia do Fascismo S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268400.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ecyYZBRZ3hB8gYvJA3sNtgxhDmW.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Amada e Ultrajada O Exercito na Historia do Brasil S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268401.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cFd1siHETCmSKr7XW4j39tyZBDf.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Amada e Ultrajada O Exercito na Historia do Brasil S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268402.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/A4cixt1PSOtnwDfkRhw3r4JMVgA.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Amada e Ultrajada O Exercito na Historia do Brasil S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2268403.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Lewis e Tolkien S01E01
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2269287.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Lewis e Tolkien S01E02
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2269288.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/p7UV4uEszZM6R4uLXFjN43JewAs.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Lewis e Tolkien S01E03
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2269289.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5W620y6Lhcjy3ByQDjzUbajbshq.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274268.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/5W620y6Lhcjy3ByQDjzUbajbshq.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274269.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/5W620y6Lhcjy3ByQDjzUbajbshq.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274270.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/5W620y6Lhcjy3ByQDjzUbajbshq.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274271.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/5W620y6Lhcjy3ByQDjzUbajbshq.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",A Vida dos Santos S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274272.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/A4LmiR3pokTjthACN5oir36fuQz.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Heróis em Foco: Batalhão de Ações com Cães (BAC) S01E01
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274573.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/A4LmiR3pokTjthACN5oir36fuQz.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Heróis em Foco: Batalhão de Ações com Cães (BAC) S01E02
@@ -619,10 +509,114 @@ http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274579.mp4
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274580.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/A4LmiR3pokTjthACN5oir36fuQz.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Heróis em Foco: Batalhão de Ações com Cães (BAC) S01E09
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274581.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zu8meQygYXQgt60v28BB52Qw4ED.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E01
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274968.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/zu8meQygYXQgt60v28BB52Qw4ED.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E02
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274969.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/zu8meQygYXQgt60v28BB52Qw4ED.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E03
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274970.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/zu8meQygYXQgt60v28BB52Qw4ED.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E04
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274971.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/zu8meQygYXQgt60v28BB52Qw4ED.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Especial Papado S01E05
+http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2274972.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vXuOUJJatjRhIYRE0p78dq5wD7W.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Raio X Guerra do Ira S01E01
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2301239.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/vXuOUJJatjRhIYRE0p78dq5wD7W.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Raio X Guerra do Ira S01E02
 http://corruptx.org:80/series/3llohwk4g9/kwf099q30o/2301240.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E07
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398806.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E06
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398805.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E05
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398804.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E04
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398803.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398802.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398801.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Beorne Show (2026) S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/398798.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4tMiBqdmpipwzs2u05EbOvo5Aa.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Raio X Guerra do Ira (2026) S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/372190.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4tMiBqdmpipwzs2u05EbOvo5Aa.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Raio X Guerra do Ira (2026) S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/372189.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin (2026) S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/369250.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin (2026) S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/368834.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9J4gS6SreayULM7TmDzWwpzvXm.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Bitcoin (2026) S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/368833.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E12
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365769.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E11
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365768.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E10
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365767.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E09
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365766.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E08
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365765.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E07
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365764.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E06
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365763.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E05
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365762.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E04
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365761.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365760.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365759.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Ministerio da Verdade S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365758.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E09
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365421.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E08
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365420.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E07
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365419.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E06
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365418.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E05
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365417.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E04
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365416.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365415.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365414.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIF01S5674EzsvwyNE2oY9Y65Q.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Herois em Foco Batalhao de Acoes com Caes (BAC) S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/365413.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E06
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/182684.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E05
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/182683.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E04
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/182682.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/182681.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/182680.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A97bfgXNHR97WUTn52B4e8zsmn2.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Congresso Brasil Paralelo S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/182679.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E05
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/179869.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E04
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/179868.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/179867.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/179866.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8rHzth9gqQZD4IAscJSvY8eJFD.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil: A Última Cruzada S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/179865.mp4
+#EXTINF:-1 tvg-logo="http://332nr7hbfu.xyz/images/42735d67fc4297669acccd65b4dee27b.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E03
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/176319.mp4
+#EXTINF:-1 tvg-logo="http://332nr7hbfu.xyz/images/42735d67fc4297669acccd65b4dee27b.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E02
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/176318.mp4
+#EXTINF:-1 tvg-logo="http://332nr7hbfu.xyz/images/42735d67fc4297669acccd65b4dee27b.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E01
+http://332nr7hbfu.xyz:80/series/999913/S3CvUB/176317.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHWZyy7kaN0C3Onv25ZPwP7OY6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil A Última Cruzada S01E01
 http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/34835.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHWZyy7kaN0C3Onv25ZPwP7OY6.jpg" group-title="SERIES | BRASIL PARALELO" media="true" media-dir="/SERIES/BRASIL PARALELO",Brasil A Última Cruzada S01E02

@@ -22,15 +22,15 @@ Cadastre como segunda instancia do IPTV Simple, desativada; ative se a principal
 https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u
 ```
 
-Ultima atualizacao: 2026-10-08 06:50
+Ultima atualizacao: 2026-10-09 04:02
 
 | Arquivo | Entradas | Tamanho |
 |---|---:|---:|
-| [filmes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/filmes.m3u) | 39656 | 10.4 MB |
-| [playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/playlist.m3u) | 3067 | 0.7 MB |
-| [reserva/filmes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/filmes.m3u) | 39656 | 10.4 MB |
-| [reserva/playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u) | 3067 | 0.7 MB |
-| [reserva/series/amazon-prime-video.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/amazon-prime-video.m3u) | 27213 | 7.4 MB |
+| [filmes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/filmes.m3u) | 39656 | 10.5 MB |
+| [playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/playlist.m3u) | 3065 | 0.7 MB |
+| [reserva/filmes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/filmes.m3u) | 39656 | 10.7 MB |
+| [reserva/playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u) | 3065 | 0.7 MB |
+| [reserva/series/amazon-prime-video.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/amazon-prime-video.m3u) | 27213 | 7.5 MB |
 | [reserva/series/amc-plus.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/amc-plus.m3u) | 82 | 0.0 MB |
 | [reserva/series/animadas.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/animadas.m3u) | 8046 | 2.0 MB |
 | [reserva/series/apple-tv-plus.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/apple-tv-plus.m3u) | 7552 | 1.9 MB |
@@ -40,19 +40,19 @@ Ultima atualizacao: 2026-10-08 06:50
 | [reserva/series/cursos.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/cursos.m3u) | 2757 | 0.7 MB |
 | [reserva/series/directv.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/directv.m3u) | 4355 | 1.1 MB |
 | [reserva/series/discovery-plus.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/discovery-plus.m3u) | 10623 | 2.9 MB |
-| [reserva/series/disney-plus.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/disney-plus.m3u) | 20181 | 5.2 MB |
-| [reserva/series/dorama.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/dorama.m3u) | 21591 | 5.5 MB |
+| [reserva/series/disney-plus.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/disney-plus.m3u) | 20181 | 5.3 MB |
+| [reserva/series/dorama.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/dorama.m3u) | 21591 | 5.6 MB |
 | [reserva/series/funimation-now.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/funimation-now.m3u) | 150 | 0.0 MB |
 | [reserva/series/globoplay.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/globoplay.m3u) | 26551 | 6.9 MB |
 | [reserva/series/indianas.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/indianas.m3u) | 276 | 0.1 MB |
 | [reserva/series/legendadas.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/legendadas.m3u) | 53953 | 14.2 MB |
 | [reserva/series/lionsgate.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/lionsgate.m3u) | 187 | 0.0 MB |
 | [reserva/series/malhacao.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/malhacao.m3u) | 4728 | 1.2 MB |
-| [reserva/series/max.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/max.m3u) | 22724 | 5.5 MB |
+| [reserva/series/max.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/max.m3u) | 22724 | 5.6 MB |
 | [reserva/series/mexicanas.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/mexicanas.m3u) | 9410 | 2.8 MB |
-| [reserva/series/netflix.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/netflix.m3u) | 42246 | 10.5 MB |
-| [reserva/series/novelas.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/novelas.m3u) | 63864 | 15.9 MB |
-| [reserva/series/outras-produtoras.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/outras-produtoras.m3u) | 34198 | 9.3 MB |
+| [reserva/series/netflix.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/netflix.m3u) | 42246 | 10.7 MB |
+| [reserva/series/novelas.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/novelas.m3u) | 63864 | 16.2 MB |
+| [reserva/series/outras-produtoras.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/outras-produtoras.m3u) | 34198 | 9.4 MB |
 | [reserva/series/paramount.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/paramount.m3u) | 12891 | 3.3 MB |
 | [reserva/series/pedidos-clientes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/pedidos-clientes.m3u) | 2067 | 0.5 MB |
 | [reserva/series/pluto-tv.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/pluto-tv.m3u) | 168 | 0.0 MB |

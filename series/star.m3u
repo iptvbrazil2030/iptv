@@ -1,10 +1,144 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3r64MOQo62f4l1kUk4rceq7LGFf.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Sem Nome S01E06
+http://64.31.23.207:80/series/96795792/50165825/5654208.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mKz9n41lFYBHnreDf5Mbziccegz.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Sem Nome S01E05
+http://64.31.23.207:80/series/96795792/50165825/5654207.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qp9QDJbb1yeqeiUHkvPSTaGJ6fu.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Sem Nome S01E04
+http://64.31.23.207:80/series/96795792/50165825/5654206.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qAaiKMpupXgbRmsEEQWltZUYNBy.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Sem Nome S01E03
+http://64.31.23.207:80/series/96795792/50165825/5654205.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eKxa36aJRjtnHPRy5T4PbxJM8a5.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Sem Nome S01E02
+http://64.31.23.207:80/series/96795792/50165825/5654204.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ycMaQw3mIeT8BIvJwvZ0YddnT5w.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Sem Nome S01E01
+http://64.31.23.207:80/series/96795792/50165825/5654203.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dQVPy8vzB1hT2WSZa9asa1JMuUN.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Luis Enrique: Você Não Sabe P.... Nenhuma S01E03
 http://64.31.23.207:80/series/96795792/50165825/5645925.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7BR3miuV2VDCLxCOj1sW0rgHRYX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Luis Enrique: Você Não Sabe P.... Nenhuma S01E02
 http://64.31.23.207:80/series/96795792/50165825/5645924.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yDQacSJrVPgAtHmValaLzQDvRpT.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Luis Enrique: Você Não Sabe P.... Nenhuma S01E01
 http://64.31.23.207:80/series/96795792/50165825/5645923.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/esNdJ5nHtkc3t3oflAzLCcakuMY.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S02E06
+http://64.31.23.207:80/series/96795792/50165825/5641306.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ybPaJRM1Ky89WOM2qJ82zCGtahn.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S02E05
+http://64.31.23.207:80/series/96795792/50165825/5641305.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/anwAyYGYZZtCkD3HMXrPmWU0sSR.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S02E04
+http://64.31.23.207:80/series/96795792/50165825/5641304.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/beFEwbFqN6ACuPOmPTst2MWNTJb.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S02E03
+http://64.31.23.207:80/series/96795792/50165825/5641303.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2Rv5j6NZXWsvb0Ca3zMxgCbr3ov.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S02E02
+http://64.31.23.207:80/series/96795792/50165825/5641302.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pcY8BaMCMzinleUK6LNDCzSRrCF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S02E01
+http://64.31.23.207:80/series/96795792/50165825/5641301.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/51u4OMQ21FPNojHtqHTJYL7QJWx.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S01E06
+http://64.31.23.207:80/series/96795792/50165825/5641300.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/obbT8PPeC4ROfNw01iOERtCZYQ4.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S01E05
+http://64.31.23.207:80/series/96795792/50165825/5641299.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7CdimO2HdLxNkP08aRJfCNEbkaD.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S01E04
+http://64.31.23.207:80/series/96795792/50165825/5641298.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/v4JWIr34kjtBiidSRzKnYJS5Zw4.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S01E03
+http://64.31.23.207:80/series/96795792/50165825/5641297.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/aWY7NVilG2KARr2rICkCizrJDYT.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S01E02
+http://64.31.23.207:80/series/96795792/50165825/5641296.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/jDFSwVHx5UXGKcsCSynP8DNRx26.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Marbella S01E01
+http://64.31.23.207:80/series/96795792/50165825/5641295.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/A8s5YM6qT1RPUcLEA4ea2Km819J.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desejos SA S01E06
+http://64.31.23.207:80/series/96795792/50165825/5640107.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8aBW2X0LLj79Oo2IvOWcQheRkMq.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desejos SA S01E05
+http://64.31.23.207:80/series/96795792/50165825/5640106.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/s5l9PnckaL92Rv1cvYj2QO6oQQj.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desejos SA S01E04
+http://64.31.23.207:80/series/96795792/50165825/5640105.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zfMZdgole6HEyD2xU0rLdrUsAnV.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desejos SA S01E03
+http://64.31.23.207:80/series/96795792/50165825/5640104.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/r1XWFdo2vit2uWIe1LVJOTvQKkG.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desejos SA S01E02
+http://64.31.23.207:80/series/96795792/50165825/5640103.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3gpeMLbnolNPmPGf0BoFQu9J68A.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desejos SA S01E01
+http://64.31.23.207:80/series/96795792/50165825/5640102.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8JuhALhL5fwEaUclEXLvSJSjsWs.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E08
+http://64.31.23.207:80/series/96795792/50165825/5638583.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/o97Rmz1ru7w6ztmxLgciEjnqDBR.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E07
+http://64.31.23.207:80/series/96795792/50165825/5638582.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6NoxUmJRngOrzFS3K0GNq9Hr2Om.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E06
+http://64.31.23.207:80/series/96795792/50165825/5638581.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8ydqcZgoF4PAJlOSXawsNI6VZAR.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E05
+http://64.31.23.207:80/series/96795792/50165825/5638580.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2LOSf7YRReIKYlZrHaJyQJO5XHh.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E04
+http://64.31.23.207:80/series/96795792/50165825/5638579.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vetU9w7TpRea4SNpMJlA7eIMUcb.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E03
+http://64.31.23.207:80/series/96795792/50165825/5638578.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wMkahTeRP9DyBUhTZpxgItUizNl.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E02
+http://64.31.23.207:80/series/96795792/50165825/5638577.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tYjgUZZ1vXFNeKsGjYJaPBv72Mz.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Hay algo en el bosque S01E01
+http://64.31.23.207:80/series/96795792/50165825/5638576.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E08
+http://64.31.23.207:80/series/96795792/50165825/5636832.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E07
+http://64.31.23.207:80/series/96795792/50165825/5636831.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E06
+http://64.31.23.207:80/series/96795792/50165825/5636830.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E05
+http://64.31.23.207:80/series/96795792/50165825/5636829.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E04
+http://64.31.23.207:80/series/96795792/50165825/5636828.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E03
+http://64.31.23.207:80/series/96795792/50165825/5636827.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E02
+http://64.31.23.207:80/series/96795792/50165825/5636826.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/VN2" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Historia Delas S01E01
+http://64.31.23.207:80/series/96795792/50165825/5636825.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/CRNqmTZksQ4S2RbU0pUjYHJe7m.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E08
+http://64.31.23.207:80/series/96795792/50165825/5636030.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yfilzifGZkUftUPnSvpYUzb2lSi.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E07
+http://64.31.23.207:80/series/96795792/50165825/5636029.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/huQln8KTWTvmZ80HrsopqI6hsdv.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E06
+http://64.31.23.207:80/series/96795792/50165825/5636028.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wh4jCXzPqCO0XkEN2eMRudYV2gC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E05
+http://64.31.23.207:80/series/96795792/50165825/5636027.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rq0EK6A1U2ygVaVZD1uZf9LZaBf.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E04
+http://64.31.23.207:80/series/96795792/50165825/5636026.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rIsQDjpzvjI4cb8Vs8C8PQazV4P.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E03
+http://64.31.23.207:80/series/96795792/50165825/5636025.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9crKIulaAk70AE4ow5Qoxvvhl2S.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E02
+http://64.31.23.207:80/series/96795792/50165825/5636024.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rrbD8b3AnlTAFlXSqEvhwlYdMGE.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ultimas Ferias S01E01
+http://64.31.23.207:80/series/96795792/50165825/5636023.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9L2Q30ftETfPEi3qotGuidWWFV6.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",How To Be a Carioca S01E06
+http://64.31.23.207:80/series/96795792/50165825/5635272.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/oDOaGUFfXwzEw3W2HhHootVO3fu.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",How To Be a Carioca S01E05
+http://64.31.23.207:80/series/96795792/50165825/5635271.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dDly5I1gK7X98GdXYgP6iIRD480.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",How To Be a Carioca S01E04
+http://64.31.23.207:80/series/96795792/50165825/5635270.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ompLBuLAMmjN2NjWzSL4PvNZzPq.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",How To Be a Carioca S01E03
+http://64.31.23.207:80/series/96795792/50165825/5635269.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gt4sdZbCkTgHtCTZPDt0aFAKrKX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",How To Be a Carioca S01E02
+http://64.31.23.207:80/series/96795792/50165825/5635268.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/iJOSq06l3uSvHGA1wNYNs8wpjMz.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",How To Be a Carioca S01E01
+http://64.31.23.207:80/series/96795792/50165825/5635267.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/NZ6" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Por que Waldemar Eis a questao do futebol brasileiro S01E03
+http://64.31.23.207:80/series/96795792/50165825/5635214.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/NZ6" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Por que Waldemar Eis a questao do futebol brasileiro S01E02
+http://64.31.23.207:80/series/96795792/50165825/5635213.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/NZ6" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Por que Waldemar Eis a questao do futebol brasileiro S01E01
+http://64.31.23.207:80/series/96795792/50165825/5635212.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mfS9zGeYCbyY2Nfab2malMtHeE6.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Faz Nada S01E05
+http://64.31.23.207:80/series/96795792/50165825/5635073.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/v2XlNBQZfr4AlQ0wWSX4sBGwV4S.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Faz Nada S01E04
+http://64.31.23.207:80/series/96795792/50165825/5635072.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/q6zmH8BNS144CmZxU5SackawPm3.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Faz Nada S01E03
+http://64.31.23.207:80/series/96795792/50165825/5635071.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1Zi3pPv817fzOi4Pvatx00bApyb.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Faz Nada S01E02
+http://64.31.23.207:80/series/96795792/50165825/5635070.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xtZaIfBUST7SvxrH13tsLmSbD74.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Faz Nada S01E01
+http://64.31.23.207:80/series/96795792/50165825/5635069.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gjZTgD1g96Cie8uHxuOHZVGB13m.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Compro Likes S01E05
+http://64.31.23.207:80/series/96795792/50165825/5634411.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rl149P0mkDXxZIdpVjHmCDm6Efz.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Compro Likes S01E04
+http://64.31.23.207:80/series/96795792/50165825/5634410.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vGrV8KZEWPEkde2gK0ASdyNYK1J.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Compro Likes S01E03
+http://64.31.23.207:80/series/96795792/50165825/5634409.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1JEg0byAAlpSjpTL3zK2rzhm0G8.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Compro Likes S01E02
+http://64.31.23.207:80/series/96795792/50165825/5634408.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7SDrJIDehmyfLjSKkArgW9fYZe.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Compro Likes S01E01
+http://64.31.23.207:80/series/96795792/50165825/5634407.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/AOGN" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Chico Xavier: A Série S01E06
 http://64.31.23.207:80/series/96795792/50165825/5633512.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/AOGN" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Chico Xavier: A Série S01E05
@@ -17,6 +151,344 @@ http://64.31.23.207:80/series/96795792/50165825/5633509.mp4
 http://64.31.23.207:80/series/96795792/50165825/5633508.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/AOGN" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Chico Xavier: A Série S01E01
 http://64.31.23.207:80/series/96795792/50165825/5633507.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/g2c0jP1AlNdR95Qzw0B6vFMKNzv.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Superfantástica História do Balão S01E03
+http://64.31.23.207:80/series/96795792/50165825/5632083.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/w3mIj9XW8uqlJ8wh8LNj9aOFLRu.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Superfantástica História do Balão S01E02
+http://64.31.23.207:80/series/96795792/50165825/5632082.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/niCogAEQNjWPLaghwlYxlD9Hf6C.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Superfantástica História do Balão S01E01
+http://64.31.23.207:80/series/96795792/50165825/5632081.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ziarCiLW0fhJKM85YMq2AnxqiBm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E08
+http://64.31.23.207:80/series/96795792/50165825/5629928.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pJTV7v8bUneAwCMrQ0HgzLEk4ol.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E07
+http://64.31.23.207:80/series/96795792/50165825/5629927.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1v49qpNmxBWqXB9Hae0mRvJDlYU.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E06
+http://64.31.23.207:80/series/96795792/50165825/5629926.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wVSHdRmPSMJ7IGvhlSl487qDmpF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E05
+http://64.31.23.207:80/series/96795792/50165825/5629925.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7pCrKOPcnwmOWnAnfZCuAJcud78.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E04
+http://64.31.23.207:80/series/96795792/50165825/5629924.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5m4WuxFzZK1CTFDDEHphzwIPG7b.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E03
+http://64.31.23.207:80/series/96795792/50165825/5629923.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8tmXjVkqcZiAkS9U0Dooqsn1VPF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E02
+http://64.31.23.207:80/series/96795792/50165825/5629922.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2GFTkeiFgE3gBx8zV6VaseyeB93.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Dois Tempos S01E01
+http://64.31.23.207:80/series/96795792/50165825/5629921.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6SqV3IvWjSu8mEjidlD5vYHpERw.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E07
+http://64.31.23.207:80/series/96795792/50165825/5627702.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/q0wWJTiiEtz8CoF5Z67tsimgLIb.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E06
+http://64.31.23.207:80/series/96795792/50165825/5627701.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uJdgnJJG4ZqpK0GG6l5a1hky6Et.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E05
+http://64.31.23.207:80/series/96795792/50165825/5627700.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nvHUxkz9NisUDlqt1cvXhoCYpcE.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E04
+http://64.31.23.207:80/series/96795792/50165825/5627699.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1MihvPL1n4hz2xf2hIDqUjE2mB.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E03
+http://64.31.23.207:80/series/96795792/50165825/5627698.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/38CHyuUW8mFx3c5Np7KPvtwN8x5.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E02
+http://64.31.23.207:80/series/96795792/50165825/5627697.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mPOiw1d5zBqc2zIcPZL7BG0GCQ2.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Ringo. Glória e Morte S01E01
+http://64.31.23.207:80/series/96795792/50165825/5627696.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ohbfMwxCkHiueraCk8dWqQVB5DH.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E13
+http://64.31.23.207:80/series/96795792/50165825/5627094.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1o74QLNXKkchWibBqyQquSs3JsX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E12
+http://64.31.23.207:80/series/96795792/50165825/5627093.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sROJW7jJ3lzheujdTr6h7mAq8DW.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E11
+http://64.31.23.207:80/series/96795792/50165825/5627092.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/C2cIOR2wEUhVntnZm3O7e5yztQ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E10
+http://64.31.23.207:80/series/96795792/50165825/5627091.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3KSpByeGc0tVDZSBWSLrB4OI9LY.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E09
+http://64.31.23.207:80/series/96795792/50165825/5627090.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/iEWC1B2NFnyc4Vmkb8UWVX5rwgn.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E08
+http://64.31.23.207:80/series/96795792/50165825/5627089.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uysxLtzASLkZ1mkZTOsib1TsDix.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E07
+http://64.31.23.207:80/series/96795792/50165825/5627088.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cGvsqpZZIXlrOqm9WeQzwzl1SR8.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E06
+http://64.31.23.207:80/series/96795792/50165825/5627087.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8Wlf8AFxZXqZPBclatWGQp4lHAK.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E05
+http://64.31.23.207:80/series/96795792/50165825/5627086.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nJTc1i8fCta0lWwgigaWn7XS0Br.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E04
+http://64.31.23.207:80/series/96795792/50165825/5627085.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/23wSAVRLEZojDPkhxLp6JRSAfU9.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E03
+http://64.31.23.207:80/series/96795792/50165825/5627084.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/f4qKWmqjVGpXLAHgJs5kiHfXdf2.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E02
+http://64.31.23.207:80/series/96795792/50165825/5627083.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yk1lIqJ0SG9URKjg0m0DHGV5gWg.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Grito das Mariposas S01E01
+http://64.31.23.207:80/series/96795792/50165825/5627082.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4XLMGYv5haVvTabhYk1yBjKKskm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E10
+http://64.31.23.207:80/series/96795792/50165825/5626127.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/AffgQ4RNVem8NIuLZuVOm6XGsHG.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E09
+http://64.31.23.207:80/series/96795792/50165825/5626126.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uZCV38phv2L8iGHpM3l0Wh2rFTt.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E08
+http://64.31.23.207:80/series/96795792/50165825/5626125.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ncKMBXX7CeLdljVqtpXCBw7FLOF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E07
+http://64.31.23.207:80/series/96795792/50165825/5626124.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wmEj2QpwvhraLO8w1sXu8yGEzbN.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E06
+http://64.31.23.207:80/series/96795792/50165825/5626123.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/33jCYhklEj2lR7Xhsr5y1ROKoT9.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E05
+http://64.31.23.207:80/series/96795792/50165825/5626122.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9quxkmXOcA7qUvbcGNoPuRSyLMB.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E04
+http://64.31.23.207:80/series/96795792/50165825/5626121.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lv5nzpV1TROrv9EVuPBXeCuuoHJ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E03
+http://64.31.23.207:80/series/96795792/50165825/5626120.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pegfln6fOMgQepMwqEIB1jXPfbS.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E02
+http://64.31.23.207:80/series/96795792/50165825/5626119.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7tI5RLK4GzTjHH9aDiTLQlsCcOD.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Horário Nobre S01E01
+http://64.31.23.207:80/series/96795792/50165825/5626118.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1PizLiRbmp8M8EjzeRjJikBXGZ0.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E08
+http://64.31.23.207:80/series/96795792/50165825/5625927.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/h44me1nV2L9nXpb3w2RONg4vw9P.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E07
+http://64.31.23.207:80/series/96795792/50165825/5625926.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tmgKyFEXihA5irRGdGtZnrjtXZX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E06
+http://64.31.23.207:80/series/96795792/50165825/5625925.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4WZ4Asu2NOc3lVhUhT4uZvOhCVX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E05
+http://64.31.23.207:80/series/96795792/50165825/5625924.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/l4pmyVfVN4CUsXc0Y1dUFOdS1eg.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E04
+http://64.31.23.207:80/series/96795792/50165825/5625923.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xHFh0niIrc00C5raUSdxiBJvebZ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E03
+http://64.31.23.207:80/series/96795792/50165825/5625922.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/c2ITOLHKb21gIkKZ5LOQYREUR8t.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E02
+http://64.31.23.207:80/series/96795792/50165825/5625921.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eNPSsRDjqpHdBMlGUG7Q0yJrJIv.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santo Maldito S01E01
+http://64.31.23.207:80/series/96795792/50165825/5625920.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wfZTEj4zhAsbjwpMdDICGhmrnoW.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Taça é Nuestra S01E06
+http://64.31.23.207:80/series/96795792/50165825/5621953.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/jH6o2WKXneXhQknu35QCQnxI94O.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Taça é Nuestra S01E05
+http://64.31.23.207:80/series/96795792/50165825/5621952.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7sm9oPJFsOjXvpRsDCVZJUa5rPS.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Taça é Nuestra S01E04
+http://64.31.23.207:80/series/96795792/50165825/5621951.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/bRWzI896zH36I9IEUpe4PE2xo03.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Taça é Nuestra S01E03
+http://64.31.23.207:80/series/96795792/50165825/5621950.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8ik0tSqqzX4WxHuAz1z0vEZdpmK.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Taça é Nuestra S01E02
+http://64.31.23.207:80/series/96795792/50165825/5621949.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5ftATU8hUTee9Qy1nwQ1LjCtZMY.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Taça é Nuestra S01E01
+http://64.31.23.207:80/series/96795792/50165825/5621948.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gp3e5cdRSgkv0h8FletJF0QeSUx.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E08
+http://64.31.23.207:80/series/96795792/50165825/5620708.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/Aqk3xQRWF5bk5nNuk9qUHycblnw.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E07
+http://64.31.23.207:80/series/96795792/50165825/5620707.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zVMs4YivZ3FkoJA4qM0IaSbfNCZ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E06
+http://64.31.23.207:80/series/96795792/50165825/5620706.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/oI4JVa5Dm6RiFfXButJFoPFpDpx.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E05
+http://64.31.23.207:80/series/96795792/50165825/5620705.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3SUVGtd8RZo2tJww1MZaaozovdZ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E04
+http://64.31.23.207:80/series/96795792/50165825/5620704.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qr2dfefSEK0CzFsDW6flQdVP0UF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E03
+http://64.31.23.207:80/series/96795792/50165825/5620703.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/w02n1MTsh2UUlhz1CgYDrtHK1yv.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E02
+http://64.31.23.207:80/series/96795792/50165825/5620702.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pFE4tQgONCrVuFc1rw2KgROtW2s.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S02E01
+http://64.31.23.207:80/series/96795792/50165825/5620701.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/84eDlgagCuQGdeyxQ2FvexIWjA0.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E08
+http://64.31.23.207:80/series/96795792/50165825/5620700.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7P3Hwd1g0oksQf6tORN9hzGWp7X.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E07
+http://64.31.23.207:80/series/96795792/50165825/5620699.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sSXP15paTOlxeqlKuMhbKgP9rFm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E06
+http://64.31.23.207:80/series/96795792/50165825/5620698.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/g2DXtQTropwcQi1ESmFHuRDp7GC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E05
+http://64.31.23.207:80/series/96795792/50165825/5620697.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8u5C8335VjGwWpmpB3zPwA7z257.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E04
+http://64.31.23.207:80/series/96795792/50165825/5620696.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/AphJpiOx5IHomfCldmxfMUDnxOF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E03
+http://64.31.23.207:80/series/96795792/50165825/5620695.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/AkcV5l1O6AWs4tqckiRFdbYgtBX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E02
+http://64.31.23.207:80/series/96795792/50165825/5620694.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dIpDlI5uZIOHKeTPv3KQ6uK51ta.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Rei da TV S01E01
+http://64.31.23.207:80/series/96795792/50165825/5620693.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6tWicKjttedj29a4qrNfAnyKvAJ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E10
+http://64.31.23.207:80/series/96795792/50165825/5618344.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vQ8wn1ZCXVQPaYxGmF5Z5VzeQ5e.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E09
+http://64.31.23.207:80/series/96795792/50165825/5618343.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/n8v6AFawyadVoXg8ScyGchQwQLV.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E08
+http://64.31.23.207:80/series/96795792/50165825/5618342.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2BxDRYmv8iPg3ffE64KpK4CV6kV.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E07
+http://64.31.23.207:80/series/96795792/50165825/5618341.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ldwBbr4YHG1ygDeP7kaV10ycDU6.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E06
+http://64.31.23.207:80/series/96795792/50165825/5618340.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ilZy6nZZhS8HsijUtqzCgwtivWy.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E05
+http://64.31.23.207:80/series/96795792/50165825/5618339.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6x6RCdBQL8RhjjmAbhOX9XxPyxE.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E04
+http://64.31.23.207:80/series/96795792/50165825/5618338.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lPCRBkc2NFkxFfAEFKOqMoJaJiC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E03
+http://64.31.23.207:80/series/96795792/50165825/5618337.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/jVnfzyU463hCC6yTy9EPnLcy6Na.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E02
+http://64.31.23.207:80/series/96795792/50165825/5618336.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9JLb7sRoWAUqkc0Tdn2Hz1BKpad.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Repatriado S01E01
+http://64.31.23.207:80/series/96795792/50165825/5618335.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6tWicKjttedj29a4qrNfAnyKvAJ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E10
+http://64.31.23.207:80/series/96795792/50165825/5618306.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vQ8wn1ZCXVQPaYxGmF5Z5VzeQ5e.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E09
+http://64.31.23.207:80/series/96795792/50165825/5618305.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/n8v6AFawyadVoXg8ScyGchQwQLV.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E08
+http://64.31.23.207:80/series/96795792/50165825/5618304.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2BxDRYmv8iPg3ffE64KpK4CV6kV.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E07
+http://64.31.23.207:80/series/96795792/50165825/5618303.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ldwBbr4YHG1ygDeP7kaV10ycDU6.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E06
+http://64.31.23.207:80/series/96795792/50165825/5618302.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ilZy6nZZhS8HsijUtqzCgwtivWy.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E05
+http://64.31.23.207:80/series/96795792/50165825/5618301.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6x6RCdBQL8RhjjmAbhOX9XxPyxE.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E04
+http://64.31.23.207:80/series/96795792/50165825/5618300.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lPCRBkc2NFkxFfAEFKOqMoJaJiC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E03
+http://64.31.23.207:80/series/96795792/50165825/5618299.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/jVnfzyU463hCC6yTy9EPnLcy6Na.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E02
+http://64.31.23.207:80/series/96795792/50165825/5618298.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9JLb7sRoWAUqkc0Tdn2Hz1BKpad.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Repatriado S01E01
+http://64.31.23.207:80/series/96795792/50165825/5618297.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/kpaM08GHwMfCYAn7rOYANGDcOAn.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E07
+http://64.31.23.207:80/series/96795792/50165825/5616251.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cTAhADNQSkvtGuKmXWk1pi6V3lw.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E06
+http://64.31.23.207:80/series/96795792/50165825/5616250.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5AElsHl91pCMFyL61Ry5lYxYmwK.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E05
+http://64.31.23.207:80/series/96795792/50165825/5616249.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/p4hYsHMdoun0XSArab2nJrWh8Gt.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E04
+http://64.31.23.207:80/series/96795792/50165825/5616248.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nCn4sy1dKq0pUb8rHKbY9NFArzG.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E03
+http://64.31.23.207:80/series/96795792/50165825/5616247.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/40R6Q875EVKNir6zo3qZGpyqnjc.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E02
+http://64.31.23.207:80/series/96795792/50165825/5616246.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/r0TF1aXR0gPP9xUioI71y14JPSw.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Santa Evita S01E01
+http://64.31.23.207:80/series/96795792/50165825/5616245.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gvfVQCmQjxWcXsvd2OQfnjH5CfF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Que Você Não Sabia Sobre o Humor Brasileiro S01E06
+http://64.31.23.207:80/series/96795792/50165825/5614529.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wiYIb4ikq9sXcyZV2xxhvHJ33Hm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Que Você Não Sabia Sobre o Humor Brasileiro S01E05
+http://64.31.23.207:80/series/96795792/50165825/5614528.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/inVTKvnk5yE2OXE4ON7BRH5HAuT.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Que Você Não Sabia Sobre o Humor Brasileiro S01E04
+http://64.31.23.207:80/series/96795792/50165825/5614527.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zsXS0i0nx6Js3lbUvgtDwkMvAw0.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Que Você Não Sabia Sobre o Humor Brasileiro S01E03
+http://64.31.23.207:80/series/96795792/50165825/5614526.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7VI5An41TXQCoSDDupv2pjMY586.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Que Você Não Sabia Sobre o Humor Brasileiro S01E02
+http://64.31.23.207:80/series/96795792/50165825/5614525.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1lbJslzIMrln1jjVdZwOuxGXnR2.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Que Você Não Sabia Sobre o Humor Brasileiro S01E01
+http://64.31.23.207:80/series/96795792/50165825/5614524.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nujDKQ1tMsgwpct8sMKLyeeHzaP.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S02E06
+http://64.31.23.207:80/series/96795792/50165825/5612800.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/br4OOPmLpJloJ83wLFOzwKRfLsu.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S02E05
+http://64.31.23.207:80/series/96795792/50165825/5612799.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uBycqHSvVR06klR69WIW7p7m7Ub.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S02E04
+http://64.31.23.207:80/series/96795792/50165825/5612798.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2zIUehfH0tzT8YG7tYabemBy1dF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S02E03
+http://64.31.23.207:80/series/96795792/50165825/5612797.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wgKSIR10O5ovNK3gFMv1U1g1mVS.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S02E02
+http://64.31.23.207:80/series/96795792/50165825/5612796.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dvHuhsdfPRVIo95DXU0ZVdM2igg.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S02E01
+http://64.31.23.207:80/series/96795792/50165825/5612795.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6G0bZRbbstXYwDFHfIFhRpMvOWL.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S01E06
+http://64.31.23.207:80/series/96795792/50165825/5612794.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zU8xaBtNAl5O2bLhYiiPx7OxItp.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S01E05
+http://64.31.23.207:80/series/96795792/50165825/5612793.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mTgTFSI89SZ8P6bQJdFEfaeU8sJ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S01E04
+http://64.31.23.207:80/series/96795792/50165825/5612792.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yEfbsF9tXjxu1fhPEOVtRkpn95x.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S01E03
+http://64.31.23.207:80/series/96795792/50165825/5612791.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/d8GtHlPW5hwR5Q8u0m9BN4znTIZ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S01E02
+http://64.31.23.207:80/series/96795792/50165825/5612790.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/d3zygYcBGbX8uT62aF5iFc8TWZQ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Desculpas Pelo Incômodo S01E01
+http://64.31.23.207:80/series/96795792/50165825/5612789.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qFsvumweglmO6duA7qq58Qs9JXS.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Todos Mentem S01E06
+http://64.31.23.207:80/series/96795792/50165825/5609450.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uD4JW8ekJydboVoBDfoCZo1WiBo.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Todos Mentem S01E05
+http://64.31.23.207:80/series/96795792/50165825/5609449.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ccS0H5G0sMF2UtnybCazPxs3End.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Todos Mentem S01E04
+http://64.31.23.207:80/series/96795792/50165825/5609448.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/asqEG1LMSZzifM6AvFSxqUsOdOu.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Todos Mentem S01E03
+http://64.31.23.207:80/series/96795792/50165825/5609447.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cDUriSdNxZSaKG063vwSMJiTGD2.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Todos Mentem S01E02
+http://64.31.23.207:80/series/96795792/50165825/5609446.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/34dslg5GM2Bl8LcP3OQN9mGVsZf.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Todos Mentem S01E01
+http://64.31.23.207:80/series/96795792/50165825/5609445.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/r1uv3xcoghJFR26qpvLZVHV2hML.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E10
+http://64.31.23.207:80/series/96795792/50165825/5604137.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7Bp3Ak97sskPoaq9Ci2Plpt2XW.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E09
+http://64.31.23.207:80/series/96795792/50165825/5604136.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cJJ0YrEhiY6UA8Dfar9wFaJi1DQ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E08
+http://64.31.23.207:80/series/96795792/50165825/5604135.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gXq0zcAnFHXL5RU4aHQ4x24tEmC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E07
+http://64.31.23.207:80/series/96795792/50165825/5604134.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/bZTAqvApX8Acdmat4KfDfBaqbYi.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E06
+http://64.31.23.207:80/series/96795792/50165825/5604133.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fWfhd9sSlrI1tNvsmnyAkqxIdTg.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E05
+http://64.31.23.207:80/series/96795792/50165825/5604132.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tgSHCGU4o4DgZv9CRxzvNFcRaM0.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E04
+http://64.31.23.207:80/series/96795792/50165825/5604131.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xdJa1hxFJKDCcIFFCOVRoxmBIM8.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E03
+http://64.31.23.207:80/series/96795792/50165825/5604130.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tkzSJLUmNaJq2Wo9siILwhkLLS2.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E02
+http://64.31.23.207:80/series/96795792/50165825/5604129.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/a5PXsU9DKSg4KiqhJusg4NMQdWK.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Terapia Alternativa S01E01
+http://64.31.23.207:80/series/96795792/50165825/5604128.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fGMEVGskSr3mxDSVfQmOlkH8hBh.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E07
+http://64.31.23.207:80/series/96795792/50165825/5596723.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/n1k9sHYP4JAnglrbbqs5BD6nxN1.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E06
+http://64.31.23.207:80/series/96795792/50165825/5596722.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tjqtILWLF5hOv2RR27w0VF5smZc.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E05
+http://64.31.23.207:80/series/96795792/50165825/5596721.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8x6rBCmVlE3y5jvqejytAiVaqNP.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E04
+http://64.31.23.207:80/series/96795792/50165825/5596720.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/w2tT10zGctZtz1gjfR7Ra5c5ypB.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E03
+http://64.31.23.207:80/series/96795792/50165825/5596719.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eLXq0s9qtCaRXrAgSkrf2uHnKYx.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E02
+http://64.31.23.207:80/series/96795792/50165825/5596718.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/bRymntAcK1bTRPGeLl1n2CFUUR1.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Os Experientes S01E01
+http://64.31.23.207:80/series/96795792/50165825/5596717.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/AgM84L653tHLLk1j9t1dFmpUrZJ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S02E06
+http://64.31.23.207:80/series/96795792/50165825/5593394.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/Rsxe3cOJhAI1NbAxPdnpoojlbB.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S02E05
+http://64.31.23.207:80/series/96795792/50165825/5593393.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6QyONpqkPuSOtD0Bm6v8Av2DlFb.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S02E04
+http://64.31.23.207:80/series/96795792/50165825/5593392.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/hzxtinulj7QYU9AmHmovBgMbFfi.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S02E03
+http://64.31.23.207:80/series/96795792/50165825/5593391.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xpTsWRIbmz1ylN1F86RNYImatV9.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S02E02
+http://64.31.23.207:80/series/96795792/50165825/5593390.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vXPSoxaNGvjDXzWtmJZPWWKgfej.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S02E01
+http://64.31.23.207:80/series/96795792/50165825/5593389.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ladGtSRm5tlq7CfzVUUdkcPGDLQ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S01E06
+http://64.31.23.207:80/series/96795792/50165825/5593388.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wbk7EZP2kbrBZ9huPrfQqkBPFKc.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S01E05
+http://64.31.23.207:80/series/96795792/50165825/5593387.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/i7viZ7lBY6GMMOKUGeqT7aOUB83.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S01E04
+http://64.31.23.207:80/series/96795792/50165825/5593386.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4FA4cSo3Yyom1Gq8VQuqY4TuVi8.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S01E03
+http://64.31.23.207:80/series/96795792/50165825/5593385.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wnZDwsPeEIf1JppapgdyUy1IFFp.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S01E02
+http://64.31.23.207:80/series/96795792/50165825/5593384.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5nTqmybm22R4fx4xmg1Cb0MQOyz.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Nasdrovia S01E01
+http://64.31.23.207:80/series/96795792/50165825/5593383.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/kOYAeBUmTlnsCzxzcD6CfVeLHoS.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S03E06
+http://64.31.23.207:80/series/96795792/50165825/5588164.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eHZiN2p4NW9JEOETStBQjAsOZDn.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S03E05
+http://64.31.23.207:80/series/96795792/50165825/5588163.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/24ISdegg4ur1iqKyOPauCbc1lOm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S03E04
+http://64.31.23.207:80/series/96795792/50165825/5588162.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xP0gkgmYYT42M7SWfLaHQwU67S4.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S03E03
+http://64.31.23.207:80/series/96795792/50165825/5588161.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rZXoanIUvbsp3FKVLDdmZAOmLMT.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S03E02
+http://64.31.23.207:80/series/96795792/50165825/5588160.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cQuWSA66a6E1IOySaM6ef9gQhv9.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S03E01
+http://64.31.23.207:80/series/96795792/50165825/5588159.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/igJhqaCS2VwLGu4QHx77YGF6KrR.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S02E06
+http://64.31.23.207:80/series/96795792/50165825/5588158.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/p7d4eus5JhpJT8IYoFYBNSH446w.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S02E05
+http://64.31.23.207:80/series/96795792/50165825/5588157.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/57sLseJSr7VycmGUFiw9TmeB0t0.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S02E04
+http://64.31.23.207:80/series/96795792/50165825/5588156.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fyYEiEXX1EuPpG1A0DUmSaHTNPN.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S02E03
+http://64.31.23.207:80/series/96795792/50165825/5588155.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ocGb6bTJbCtDglWQovYxgHeo7Wu.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S02E02
+http://64.31.23.207:80/series/96795792/50165825/5588154.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/m1KB4gavpx0JJjk8b3KaQiMy1lI.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S02E01
+http://64.31.23.207:80/series/96795792/50165825/5588153.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7u7OO95wDuQfkPdMzNHBrYxFvAx.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S01E06
+http://64.31.23.207:80/series/96795792/50165825/5588152.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/58qGmPRxmGXgPD3dbzwdrhakOO0.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S01E05
+http://64.31.23.207:80/series/96795792/50165825/5588151.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yuLLLWW7lDkhROK1BLkCMAeuvsC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S01E04
+http://64.31.23.207:80/series/96795792/50165825/5588150.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xk9Sy5U0DtZvVynFscdbi2Andsy.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S01E03
+http://64.31.23.207:80/series/96795792/50165825/5588149.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5qQgvMhoN8HKCor00tYPrsdgtvM.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S01E02
+http://64.31.23.207:80/series/96795792/50165825/5588148.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mip2NAShs4CDUhUt81WngWCDEZW.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",A Unidade S01E01
+http://64.31.23.207:80/series/96795792/50165825/5588147.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/d468txqiS7ndQqdT6cgYgHDtOHj.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Merlí. Sapere Aude S02E08
 http://64.31.23.207:80/series/96795792/50165825/5582127.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dWzk6yk0E9V4O1FTTN4lrLMRAyN.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Merlí. Sapere Aude S02E07
@@ -49,3 +521,77 @@ http://64.31.23.207:80/series/96795792/50165825/5582114.mp4
 http://64.31.23.207:80/series/96795792/50165825/5582113.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xiC1mq3LEs7Jg9VxfctSxlqlWqX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Merlí. Sapere Aude S01E01
 http://64.31.23.207:80/series/96795792/50165825/5582112.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8AGEy2jTAwC0A6nIZ7n20kjvH5y.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E08
+http://64.31.23.207:80/series/96795792/50165825/5580447.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fkJp7snsaWecy41tekYsPHUfjLI.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E07
+http://64.31.23.207:80/series/96795792/50165825/5580446.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3zxtje3Fm8fKvRKTs1aQO5SI8PQ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E06
+http://64.31.23.207:80/series/96795792/50165825/5580445.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/khKzbGGwzNT6Y1PQgFNFws635K4.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E05
+http://64.31.23.207:80/series/96795792/50165825/5580444.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4OKdukj7iZdIECqqnodws3fZiUp.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E04
+http://64.31.23.207:80/series/96795792/50165825/5580443.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4ABMaKrnuE3Fq2mOS25pvZ8He2h.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E03
+http://64.31.23.207:80/series/96795792/50165825/5580442.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5lPvl0Jazg1eI09HAUrGV6euTBM.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E02
+http://64.31.23.207:80/series/96795792/50165825/5580441.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ng5Lkgs9U8sbELCrH5dQZf7AJY5.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vida Perfeita S01E01
+http://64.31.23.207:80/series/96795792/50165825/5580440.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zwRbUFF6GBQR7g86MTn4FdWr3XC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Corredor Da Morte S01E04
+http://64.31.23.207:80/series/96795792/50165825/5579164.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rhG0BEK8lKSLZ7jD4AnLQM4Ibbm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Corredor Da Morte S01E03
+http://64.31.23.207:80/series/96795792/50165825/5579163.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/aGbWpijLe6DUkOyDLNep7nEiEDI.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Corredor Da Morte S01E02
+http://64.31.23.207:80/series/96795792/50165825/5579162.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pr86BRKwOGdeqGhddwq1DZcDtBD.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Corredor Da Morte S01E01
+http://64.31.23.207:80/series/96795792/50165825/5579161.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nsd9DwOUu6LEKsgSBcUpKmokbaC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E08
+http://64.31.23.207:80/series/96795792/50165825/5572424.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3OUIoRcGogO2C3vO8XveGcq71W.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E07
+http://64.31.23.207:80/series/96795792/50165825/5572423.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eoVP0NX6zJrF7Ck6JC7qlu2DaPW.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E06
+http://64.31.23.207:80/series/96795792/50165825/5572422.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wDhtbsD5dv5wEGf6kBw9bybcZUb.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E05
+http://64.31.23.207:80/series/96795792/50165825/5572421.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/c1NLm6gl4UBYOPjSlfYZzFNEp5H.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E04
+http://64.31.23.207:80/series/96795792/50165825/5572420.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mSNTm9K0v41vbUPXt6JZryvbyVC.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E03
+http://64.31.23.207:80/series/96795792/50165825/5572419.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ciWDIa9IuGmkGGkjDcL2eRwHZzX.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E02
+http://64.31.23.207:80/series/96795792/50165825/5572418.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3wfohD69qqCUFQmEtKfkI3lNssG.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S02E01
+http://64.31.23.207:80/series/96795792/50165825/5572417.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vkBysHlMZZUzGysH7VqasnWjwL5.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E08
+http://64.31.23.207:80/series/96795792/50165825/5572416.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yAFZUM8WnPBcbNs2oyliN1BX49C.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E07
+http://64.31.23.207:80/series/96795792/50165825/5572415.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/iWptTXdUCmNtrwD3WTd6C4Do6bh.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E06
+http://64.31.23.207:80/series/96795792/50165825/5572414.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vJ6RnUEfh2p16E1FL8X4XVRKmrm.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E05
+http://64.31.23.207:80/series/96795792/50165825/5572413.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zsLKmM6BrK8q5ZTLxbscD4m5Nae.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E04
+http://64.31.23.207:80/series/96795792/50165825/5572412.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mfkJpVWLWq8nx3bX1Ec87PYysrk.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E03
+http://64.31.23.207:80/series/96795792/50165825/5572411.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1arj2JhsNP8qBWH5gARhlclDAOt.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E02
+http://64.31.23.207:80/series/96795792/50165825/5572410.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mUDNIkqCle8zfNhKxQKNnKeM2wB.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",O Píer S01E01
+http://64.31.23.207:80/series/96795792/50165825/5572409.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9VjRpVWMuQbkelVcRMxCUPMoQSk.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E09
+http://64.31.23.207:80/series/96795792/50165825/5561352.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pHaFjtCIxqTLbGbzTMMtH5eLWDe.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E08
+http://64.31.23.207:80/series/96795792/50165825/5561351.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3FADBQckpSDdmCx77aAK8VDpeT5.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E07
+http://64.31.23.207:80/series/96795792/50165825/5561350.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5oigeADk0VzuKVv2ryJpiYi2P1g.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E06
+http://64.31.23.207:80/series/96795792/50165825/5561349.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8UHssvF9mUvX3H1Iw2fP709pDI3.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E05
+http://64.31.23.207:80/series/96795792/50165825/5561348.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fE8nOehp5lKEsgrxTlZH4zIucXF.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E04
+http://64.31.23.207:80/series/96795792/50165825/5561347.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1wHxOiDm78CrzUDdEqTtmOFc3Cx.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E03
+http://64.31.23.207:80/series/96795792/50165825/5561346.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8GPFYHgdgiWGK2k5BYAhrmEUmgJ.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E02
+http://64.31.23.207:80/series/96795792/50165825/5561345.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/soHb4NpDoD0sERgeXOuJKboITKf.jpg" group-title="SERIES | STAR+" media="true" media-dir="/SERIES/STAR+",Vergonha S01E01
+http://64.31.23.207:80/series/96795792/50165825/5561344.mp4

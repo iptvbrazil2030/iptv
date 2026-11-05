@@ -1,12 +1,94 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u58fg3LXeXdGYaY9g3KRWYHJZHJ.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E03
-http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501385.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aOH2ywlomD7ncXtpwYr2BCqAvrV.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E21
-http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501403.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pNDtrZNdJH0doGn0XfzoLM5uoPt.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E22
-http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501404.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2FwKuhAHrha3Np1nb5cit4lRJLQ.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E23
-http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501405.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbYfeTpO9ljrXopJRz0aDM3YfNS.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S09E00
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501236.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yk5aKbasSlti1jZKbpa7G9Gu49H.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E01
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629422.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mME6wmZB3CDLhC4zNCX5bSHhlc4.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E02
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629423.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eOKaL7R4iOaDYMt6jZ0pdDOIEIm.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E03
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629424.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xwpGN5Ck5loNPCBokf7CpX1xo0z.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E04
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629425.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hhUyt1nkC1ZvlChs4u0BMCWj20S.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E05
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629426.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/reFCBt53Ox5JsUZTl23yE1Pfn6M.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E06
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629427.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2tSRtvFDB1kwGZOJix6hA0BWaPk.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E07
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629428.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dob91gEZHsXYc5danBUZvLYDzfh.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E08
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629429.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/33ju5WXIXAmeZeBkIGyCp22iGV5.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E09
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629430.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gmz9S5ews09SHcwJm7wgEaGK4LB.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E10
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629431.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/31SIa8XuRL0ScW9BBGbnhpftFLq.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E11
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629432.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uJXUKAZZa95dY3Fr9uyO6hmyPp3.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E12
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629433.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jK2XpUpAOfUWXgT2L11WllR6xMA.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E13
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629434.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jIVMAlmSUic5QbEdkZkAde4xe2S.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E14
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629435.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zjeky7ufE0F1LvatsVZRFzlLerx.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E15
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629436.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/1hWZOKOjmbNmYIwrjT5VhKIBvBb.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E16
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629437.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zgxNP12BNBvMANve9uCgm1wEd8h.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E17
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629438.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nlfxCgwfDtxHFhMQe447NXmimXk.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E18
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629439.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/FcYnqzXomirZq8kyGkrPmXYWF9.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E19
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629440.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sZpf0Glrc6kmp9FP7cULkilgGx5.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E20
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629441.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2RsOnUSzGrT5h9hmrcxthqhI2wB.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E21
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629442.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/c5K2UjDuveUlsd7sMMQI0L4BMWp.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S01E22
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629443.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dP8nlYyMPUrj6GK2GXSQC0VQVcR.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E01
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629444.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/kTiI26nNv4EFyv0TtOpdjSUgNfR.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E02
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629445.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b3Ujd5R4Va82XdK2UrW9FxfZrfs.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E03
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629446.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/goWMZ0IIXH9lM4YANxcul1GvOPb.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E04
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629447.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sx98LkIGtSJTAjgABuZ10SS9K9P.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E05
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629448.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7nHxbG8UwRgrc2Xwf7psKxjxMFP.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E06
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629449.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/74mVRBfo1UZWEFpInADT66PU6YO.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E07
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629450.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7yCCOLN7yYAyi7NrjhhoHM94tB2.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E08
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629451.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xsy1Fx8UyvULJhTyKNllsygGZ3Y.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E09
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629452.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2u6vBUmul6oP9HERYW3MPkr8Xz2.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E10
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629453.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cRzDRT21zj8E4zz3BW6mFORJZxh.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E11
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629454.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yTbrUIT2QUYmz5HT0LGukTNEaTx.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E12
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629455.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aC3YnM9N6ofGFVkndGIsj7Rjvs8.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E13
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629456.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9sppOM0uqbtygluzHYDamoOmfJO.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E14
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629457.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/22MdFy0Pio5vZVOkuvAHHt1klrK.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E15
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629458.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ifX3g068BNPQKjhAICgstVKzcFW.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E16
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629459.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xgPjV5MV8bg4PqFDCxGrNyOSk59.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E17
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629460.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/1Oo2cF9k8vP4ZVAhVVqHf1P4yF1.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E18
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629461.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8twGgMjainEYqpOhhpE52ELruBb.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E19
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629462.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/m8O6FulYQ803IiBOzZPxbq52LuY.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E20
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629463.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u1k38dBWuUSUn78wFD25zEyHCBk.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E21
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629464.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/maWBKe9bMJNPyR6Wd8xxRJ5fAkB.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S02E22
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629465.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/i5rDlsFZiv6Sd8zBPxow7Opo0oS.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S03E01
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ymZZt4znFjYfkc7w2ECr0qeHCF5.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S03E02
@@ -295,5 +377,3 @@ http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696534.mp4
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696535.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/v8MOkDSj73pXXXjICzIENuf0vWm.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Apenas um Show: As Fitas Perdidas S01E18
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696536.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xtHClt0kKnHftBmjutZkAbCELO0.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Med Cezir  Vidas Alheias S01E01
-http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2697326.mp4

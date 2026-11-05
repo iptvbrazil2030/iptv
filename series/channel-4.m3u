@@ -1,6 +1,346 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3Qgi3mRM847G76L0P8H6jMvL89L.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tip Toe S01E05
+http://64.31.23.207:80/series/96795792/50165825/5663885.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/i7aggpIcyQ4zvtFj7FGqtOAzQGn.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tip Toe S01E04
+http://64.31.23.207:80/series/96795792/50165825/5663884.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/89nXJlxULAVaKvQAHzOBBBTxhQ4.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tip Toe S01E03
+http://64.31.23.207:80/series/96795792/50165825/5663883.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2aLcvNoyDGLXqMPQePCU3mSnBhm.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tip Toe S01E02
+http://64.31.23.207:80/series/96795792/50165825/5663882.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mwabAKtLFyq1vDnpRMigCXYZu3Z.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tip Toe S01E01
+http://64.31.23.207:80/series/96795792/50165825/5663881.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/j4FyX2tD1DEdsg26u4c34UegJFL.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Kevin Spacey A Historia Nao Contada S01E02
+http://64.31.23.207:80/series/96795792/50165825/5641471.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/A3qkMvpDHcBnrAIEcoPrv04ZSbF.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Kevin Spacey A Historia Nao Contada S01E01
+http://64.31.23.207:80/series/96795792/50165825/5641470.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rFHCcJ2L7wmSdHY7ioIKTrFVXij.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S02E06
+http://64.31.23.207:80/series/96795792/50165825/5636666.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nvgvKrIUuNmfhtnacvgUVZX0FW4.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S02E05
+http://64.31.23.207:80/series/96795792/50165825/5636665.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/84JlFzKbSt1SW2nLScjFaRPC2Mn.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S02E04
+http://64.31.23.207:80/series/96795792/50165825/5636664.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/trsoZDmj3O0D1TA8vNQ5KoO5Q1f.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S02E03
+http://64.31.23.207:80/series/96795792/50165825/5636663.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/a3sBDofta3Udm7stRMyvpy5z3yF.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S02E02
+http://64.31.23.207:80/series/96795792/50165825/5636662.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ba9zW6Fu6NHAehv9SaY7hNjbN7Q.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S02E01
+http://64.31.23.207:80/series/96795792/50165825/5636661.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eTH77tK7O7FMTfoTE3EazHHtewN.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S01E06
+http://64.31.23.207:80/series/96795792/50165825/5636660.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zN1M7dYBtqGzdZPL9RkUTIoTkLf.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S01E05
+http://64.31.23.207:80/series/96795792/50165825/5636659.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xnC2GQA802YTmQy8fYzbACVjy36.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S01E04
 http://64.31.23.207:80/series/96795792/50165825/5636658.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/woDrwGN2wVJJYXlVROnFdCNQJn1.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S01E03
+http://64.31.23.207:80/series/96795792/50165825/5636657.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lLX8maWZ0NNti5KcVBNjDi7i9gA.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S01E02
+http://64.31.23.207:80/series/96795792/50165825/5636656.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/bbJI8yfKcr38kcNaCPmg7AQwmtS.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",O Casal da Casa ao Lado S01E01
+http://64.31.23.207:80/series/96795792/50165825/5636655.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pt4iNVYywDBzohDscJ9RbXglype.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Chef 5 Estrelas S01E06
+http://64.31.23.207:80/series/96795792/50165825/5630871.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7xGBabXawBHYwLZCOnSzzUlHrLJ.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Chef 5 Estrelas S01E05
+http://64.31.23.207:80/series/96795792/50165825/5630870.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rwBcfscRCC62EAf0QC8dfkdGfOh.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Chef 5 Estrelas S01E04
+http://64.31.23.207:80/series/96795792/50165825/5630869.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/o5xcwcDu0B31rzbzRs2sI9tCgEF.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Chef 5 Estrelas S01E03
+http://64.31.23.207:80/series/96795792/50165825/5630868.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/k2DAchRpiTvHf1cIsA5GAu2rK3B.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Chef 5 Estrelas S01E02
+http://64.31.23.207:80/series/96795792/50165825/5630867.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cfJkQQpD9rsHwLXfecCpvUoLHkm.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Chef 5 Estrelas S01E01
+http://64.31.23.207:80/series/96795792/50165825/5630866.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gwihdG6qE75q9TCR9wrT8B4VLxh.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Johnny Depp x Amber Heard S01E03
+http://64.31.23.207:80/series/96795792/50165825/5630173.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1iuG6nGo9HUCJD1tTGQZbc6dRHy.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Johnny Depp x Amber Heard S01E02
+http://64.31.23.207:80/series/96795792/50165825/5630172.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/jnkn8NCrUidQmRScnWW1maUyBfo.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Johnny Depp x Amber Heard S01E01
+http://64.31.23.207:80/series/96795792/50165825/5630171.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6hbtk9qBXd76urGSHICvxHmjyWU.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E08
+http://64.31.23.207:80/series/96795792/50165825/5627731.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/A8is4PKlRCZbUbp1jHcJTcL0txQ.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E07
+http://64.31.23.207:80/series/96795792/50165825/5627730.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/z2NG9cVZ0zehuoqxKTLwICLCjFP.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E06
+http://64.31.23.207:80/series/96795792/50165825/5627729.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8QDZWP0I5cfhknddMfX4qxhUthn.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E05
+http://64.31.23.207:80/series/96795792/50165825/5627728.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rYyM4roXsS5MnhmI80jv008cia7.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E04
+http://64.31.23.207:80/series/96795792/50165825/5627727.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/w7m1SxzguC88mfgmHNWqZ8j5KGC.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E03
+http://64.31.23.207:80/series/96795792/50165825/5627726.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tAnPRGJwCMN1oJUgse3ZD11j1H3.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E02
+http://64.31.23.207:80/series/96795792/50165825/5627725.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ztr80WxReY65YvfuQlwb4rkpi0g.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S02E01
+http://64.31.23.207:80/series/96795792/50165825/5627724.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gZa0kAjz36SVNiUXspqPt35hkI5.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S01E06
+http://64.31.23.207:80/series/96795792/50165825/5627723.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yQwvnvdq4voCjc3YmoL4DegkxwH.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S01E05
+http://64.31.23.207:80/series/96795792/50165825/5627722.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mS3B9yiNjXvjb88Xxcr5Uh7gaa9.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S01E04
+http://64.31.23.207:80/series/96795792/50165825/5627721.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/efCcTTyuSMeAdc8ckQqaOLV035e.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S01E03
+http://64.31.23.207:80/series/96795792/50165825/5627720.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/hfHJNa1VY7s1WLSb2Tv7U2l6NYe.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S01E02
+http://64.31.23.207:80/series/96795792/50165825/5627719.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9I8Wulb2B4Oq9It4TPIU8ffqHPY.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Sobrevivendo às Tentações S01E01
+http://64.31.23.207:80/series/96795792/50165825/5627718.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/EKP5" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S02E01
+http://64.31.23.207:80/series/96795792/50165825/5614556.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sjZXc0sKIWc3Z3aE6cr0cQaDyAE.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S01E06
+http://64.31.23.207:80/series/96795792/50165825/5614555.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yNphAd2pwCF2dqcesTzYfZY19Wn.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S01E05
+http://64.31.23.207:80/series/96795792/50165825/5614554.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1EXW6N2Q0lsQOraMDlkeEhrUS9P.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S01E04
+http://64.31.23.207:80/series/96795792/50165825/5614553.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lctMJgmnwTc67t4h9M1R44Mm2ZK.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S01E03
+http://64.31.23.207:80/series/96795792/50165825/5614552.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uFWN3q4SBwc6zSMyaaX2Zm2tJfe.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S01E02
+http://64.31.23.207:80/series/96795792/50165825/5614551.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/CvePEjmmwhRgqmFJnzqvfPsnOY.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Tesouros Perdidos de Roma S01E01
+http://64.31.23.207:80/series/96795792/50165825/5614550.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qdfuHhgim7KQ0Ye8b3wrSfkeFtu.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Bling Ring: A História por Trás dos Roubos S01E03
+http://64.31.23.207:80/series/96795792/50165825/5613584.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4eQ06sX4FeptwG24SZN03kDxyIG.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Bling Ring: A História por Trás dos Roubos S01E02
+http://64.31.23.207:80/series/96795792/50165825/5613583.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/j2xZ0xJvckSRlaSztfVHNX6kPIl.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Bling Ring: A História por Trás dos Roubos S01E01
+http://64.31.23.207:80/series/96795792/50165825/5613582.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/heH0T9NFnvqzdKG5RUPQjz3uNY4.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Deceit S01E04
+http://64.31.23.207:80/series/96795792/50165825/5602505.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/5Vkm2ONwdTbhIcvuCAZbI3Awfbx.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Deceit S01E03
+http://64.31.23.207:80/series/96795792/50165825/5602504.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gZT5Cwj2oVCSvR0w0O5mL9Px1Nj.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Deceit S01E02
+http://64.31.23.207:80/series/96795792/50165825/5602503.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4EFGuw2Z7Hu68S8IobHwursfkuj.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Deceit S01E01
+http://64.31.23.207:80/series/96795792/50165825/5602502.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lBVCTbVEeFucELDTKMlnEfcoyaI.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E10
+http://64.31.23.207:80/series/96795792/50165825/5598982.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/bD1vMj5KI2Bz5n2jBRrdcfChlRt.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E09
+http://64.31.23.207:80/series/96795792/50165825/5598981.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2KOtkvQfkcgzDnqfNUgyBJZGr6f.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E08
+http://64.31.23.207:80/series/96795792/50165825/5598980.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/kVO9LrkIJpzlTge1qeso0lB1cHm.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E07
+http://64.31.23.207:80/series/96795792/50165825/5598979.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nJXDY32xkgrfamAUXPf89GFCuI3.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E06
+http://64.31.23.207:80/series/96795792/50165825/5598978.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gZEMnnE03WnVeffoYyVII9usXjS.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E05
+http://64.31.23.207:80/series/96795792/50165825/5598977.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2WnK3hAs5tNClr1vTgWryn2mwvc.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E04
+http://64.31.23.207:80/series/96795792/50165825/5598976.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yyXc5uBoGPETRdfF7P1pEuJGOie.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E03
+http://64.31.23.207:80/series/96795792/50165825/5598975.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1ayL1s9f3AsxE8RNwFSZrm1fvS9.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E02
+http://64.31.23.207:80/series/96795792/50165825/5598974.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/jhKzclUPLSpcOXiaadWkwDSjcYW.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Operação Naufrágios S01E01
+http://64.31.23.207:80/series/96795792/50165825/5598973.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rxYj5kOh57q8Ci815AEJy9iZNuq.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",It's A Sin S01E05
+http://64.31.23.207:80/series/96795792/50165825/5596123.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/u1K0GPLPTjmdti9ghqe79qNx2rz.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",It's A Sin S01E04
+http://64.31.23.207:80/series/96795792/50165825/5596122.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/m1nyJwe1S2f88EIWRvAddsZcy7M.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",It's A Sin S01E03
+http://64.31.23.207:80/series/96795792/50165825/5596121.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dt3tMYCHV2lZkui85ne3sQUW2Je.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",It's A Sin S01E02
+http://64.31.23.207:80/series/96795792/50165825/5596120.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/uTF93hPrJhJJ2yEJjYs5FzsPceH.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",It's A Sin S01E01
+http://64.31.23.207:80/series/96795792/50165825/5596119.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rHOEyXRoOjMO3P6uZHhDO8KzOMG.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Na Trilha dos Elefantes S01E03
+http://64.31.23.207:80/series/96795792/50165825/5588111.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8GdJemCT6olb0JARFLVXNuoaE3b.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Na Trilha dos Elefantes S01E02
+http://64.31.23.207:80/series/96795792/50165825/5588110.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/hyZca9dw7CSyJcVrXyPXAazqifD.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Na Trilha dos Elefantes S01E01
+http://64.31.23.207:80/series/96795792/50165825/5588109.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zxDxEbecmJ5vpnEEpZNjJEmwDIc.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pensamentos Impuros S01E06
+http://64.31.23.207:80/series/96795792/50165825/5572668.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fWBfoofqHSGODZGMUpQ2YqH5jQI.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pensamentos Impuros S01E05
+http://64.31.23.207:80/series/96795792/50165825/5572667.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/k97vxJ52keh0G3FKxNj62B5sZAq.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pensamentos Impuros S01E04
+http://64.31.23.207:80/series/96795792/50165825/5572666.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mWwUpUtRxTvCz572954qNkpzglF.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pensamentos Impuros S01E03
+http://64.31.23.207:80/series/96795792/50165825/5572665.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mQzKGI8Sl2SWzez4JVhtteSrJhf.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pensamentos Impuros S01E02
+http://64.31.23.207:80/series/96795792/50165825/5572664.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/o9AopK5QkpOmFoOzFNd621ZfsZy.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pensamentos Impuros S01E01
+http://64.31.23.207:80/series/96795792/50165825/5572663.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zxDxEbecmJ5vpnEEpZNjJEmwDIc.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pure S01E06
+http://64.31.23.207:80/series/96795792/50165825/5572662.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/fWBfoofqHSGODZGMUpQ2YqH5jQI.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pure S01E05
+http://64.31.23.207:80/series/96795792/50165825/5572661.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/k97vxJ52keh0G3FKxNj62B5sZAq.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pure S01E04
+http://64.31.23.207:80/series/96795792/50165825/5572660.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mWwUpUtRxTvCz572954qNkpzglF.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pure S01E03
+http://64.31.23.207:80/series/96795792/50165825/5572659.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/mQzKGI8Sl2SWzez4JVhtteSrJhf.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pure S01E02
+http://64.31.23.207:80/series/96795792/50165825/5572658.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/o9AopK5QkpOmFoOzFNd621ZfsZy.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Pure S01E01
+http://64.31.23.207:80/series/96795792/50165825/5572657.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/e9KZY45uOlUtVGO3Ca261jPayFN.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E08
+http://64.31.23.207:80/series/96795792/50165825/5560244.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3zmxotIhZKslzmlCfgCeen59HOh.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E07
+http://64.31.23.207:80/series/96795792/50165825/5560243.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/k2pGMELgokiwKw825MbQHrqswVT.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E06
+http://64.31.23.207:80/series/96795792/50165825/5560242.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/f8LMd6LmePjq051duSmRRSVVsX9.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E05
+http://64.31.23.207:80/series/96795792/50165825/5560241.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/syk3yHfYEL9KLYG37TG38D5IsN2.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E04
+http://64.31.23.207:80/series/96795792/50165825/5560240.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7i4otxaTnw7U0sBA894oIkM07p2.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E03
+http://64.31.23.207:80/series/96795792/50165825/5560239.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1m280C5qjowG3gMUxuEqd86U93g.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E02
+http://64.31.23.207:80/series/96795792/50165825/5560238.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/wE7Lyy4qUUK3lanctmaL1CP11qR.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S02E01
+http://64.31.23.207:80/series/96795792/50165825/5560237.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/6LtGAUpFpH7mFVU4uXnlSlF7a6E.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E08
+http://64.31.23.207:80/series/96795792/50165825/5560236.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sj4bVxoVdSE1qrQ2yqrBZhO9KuO.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E07
+http://64.31.23.207:80/series/96795792/50165825/5560235.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/vUOOHvbWVh8m2nZCr4hFDnFWBtM.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E06
+http://64.31.23.207:80/series/96795792/50165825/5560234.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qPtb0IZtE69fdLsmhePSECIqXFJ.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E05
+http://64.31.23.207:80/series/96795792/50165825/5560233.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cD0dtQgiP0wWZjfUvKYqTbgmuzg.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E04
+http://64.31.23.207:80/series/96795792/50165825/5560232.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nPgo8ry2R0cafU88qvKUZYDEg9b.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E03
+http://64.31.23.207:80/series/96795792/50165825/5560231.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/kbzfiCUR91lwOnb7ZVotGwRV70J.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E02
+http://64.31.23.207:80/series/96795792/50165825/5560230.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rvBwbpo8W6MK7x3A9tk8MSfxeR7.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",The End of the F***ing World S01E01
+http://64.31.23.207:80/series/96795792/50165825/5560229.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E08
+http://64.31.23.207:80/series/96795792/50165825/5546012.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E07
+http://64.31.23.207:80/series/96795792/50165825/5546011.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E06
+http://64.31.23.207:80/series/96795792/50165825/5546010.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tBIAK6vNItW3scAxjElexFIErzR.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E05
+http://64.31.23.207:80/series/96795792/50165825/5546009.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9w2WEje416ouJwFGJQ3zmpDFEPp.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E04
+http://64.31.23.207:80/series/96795792/50165825/5546008.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/gL7GGKOLGeagjfhmGlKfbQiAgx0.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E03
+http://64.31.23.207:80/series/96795792/50165825/5546007.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/c9eadQsknQ3xvICBJMR2HW0D2rt.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E02
+http://64.31.23.207:80/series/96795792/50165825/5546006.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/o2S8ES4zTVuYVVYhLAp0RmxD5lk.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S06E01
+http://64.31.23.207:80/series/96795792/50165825/5546005.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR4" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E10
+http://64.31.23.207:80/series/96795792/50165825/5546004.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR4" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E09
+http://64.31.23.207:80/series/96795792/50165825/5546003.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR4" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E08
+http://64.31.23.207:80/series/96795792/50165825/5546002.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR4" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E07
+http://64.31.23.207:80/series/96795792/50165825/5546001.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARR4" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E06
+http://64.31.23.207:80/series/96795792/50165825/5546000.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lWI51BcHo6fEXH2E6EG9wHTS4eM.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E05
+http://64.31.23.207:80/series/96795792/50165825/5545999.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xyQnd4yVir0mvBcxycO8zFohexK.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E04
+http://64.31.23.207:80/series/96795792/50165825/5545998.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ali0CV2v42U1nWz17MK7CDkpCFo.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E03
+http://64.31.23.207:80/series/96795792/50165825/5545997.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/Nx3SawxQAzui8LtNdLmBKJUpJB.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E02
+http://64.31.23.207:80/series/96795792/50165825/5545996.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dGgCLFZgk7uYVKM2QtnxIw5nAR0.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S05E01
+http://64.31.23.207:80/series/96795792/50165825/5545995.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E10
+http://64.31.23.207:80/series/96795792/50165825/5545994.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E09
+http://64.31.23.207:80/series/96795792/50165825/5545993.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E08
+http://64.31.23.207:80/series/96795792/50165825/5545992.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E07
+http://64.31.23.207:80/series/96795792/50165825/5545991.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lGMpDzoT8lcrKAbWd6G5RzDMUnj.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E06
+http://64.31.23.207:80/series/96795792/50165825/5545990.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yPTlwb50s9Hm9LcTkZzVahbIU71.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E05
+http://64.31.23.207:80/series/96795792/50165825/5545989.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/suwtCrFlX4Azou4xFBQcS3qjbj.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E04
+http://64.31.23.207:80/series/96795792/50165825/5545988.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/lbItQTPvgSmqPLPrJ69UvOSPDWw.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E03
+http://64.31.23.207:80/series/96795792/50165825/5545987.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/bIuv0to88picR2B01PcYymQbUsy.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E02
+http://64.31.23.207:80/series/96795792/50165825/5545986.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/3iLjwUJiWfRfW1rhTmcm9tE1Csq.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S04E01
+http://64.31.23.207:80/series/96795792/50165825/5545985.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E10
+http://64.31.23.207:80/series/96795792/50165825/5545984.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E09
+http://64.31.23.207:80/series/96795792/50165825/5545983.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E08
+http://64.31.23.207:80/series/96795792/50165825/5545982.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E07
+http://64.31.23.207:80/series/96795792/50165825/5545981.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E06
+http://64.31.23.207:80/series/96795792/50165825/5545980.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/ARQ3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E05
+http://64.31.23.207:80/series/96795792/50165825/5545979.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cY9DWlI5ivnPovLUk06zdM0TfbX.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E04
+http://64.31.23.207:80/series/96795792/50165825/5545978.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nvTL6zxXTBlDU7fRVVTgp6WXSQr.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E03
+http://64.31.23.207:80/series/96795792/50165825/5545977.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rXGVp06YhHyHSwa821W1eh6qrSw.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E02
+http://64.31.23.207:80/series/96795792/50165825/5545976.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zI1LAYMkV8sUGIEoiUTCrsQyC3y.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S03E01
+http://64.31.23.207:80/series/96795792/50165825/5545975.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/iOJIlfiKSGBMW1l35qSdjmIYhlE.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E10
+http://64.31.23.207:80/series/96795792/50165825/5545974.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/oIf9Xs0n2RzUVME6fVxn1ZARCzF.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E09
+http://64.31.23.207:80/series/96795792/50165825/5545973.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/d8vGd4GMlY0vW1HlJ1oYDwQIbdH.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E08
+http://64.31.23.207:80/series/96795792/50165825/5545972.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ugsvM27zWl9JI0ne9pcbhgLn2i7.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E07
+http://64.31.23.207:80/series/96795792/50165825/5545971.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2Jk6TS5EVRQSW9Cu66aNl2mQ3F8.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E06
+http://64.31.23.207:80/series/96795792/50165825/5545970.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dFUAoLG2jWop4e1Hq514zirpYVY.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E05
+http://64.31.23.207:80/series/96795792/50165825/5545969.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/cQOJ0lX8b4nfWDq34tqIKYcuUUo.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E04
+http://64.31.23.207:80/series/96795792/50165825/5545968.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/7fzSW9yZX48ffa9ozIrhVnMvITd.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E03
+http://64.31.23.207:80/series/96795792/50165825/5545967.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/A2SwiLPBK7tTJQfoSXci27TrFhQ.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E02
+http://64.31.23.207:80/series/96795792/50165825/5545966.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/70OpgZ0WXhMlEuY3IITv9XyYz7V.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S02E01
+http://64.31.23.207:80/series/96795792/50165825/5545965.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/u5RZxRUFRXStuq15c0d3GMQdkss.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S01E05
+http://64.31.23.207:80/series/96795792/50165825/5545964.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/qBVpOLTCyW1j0hllQ6RazHt2PWi.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S01E04
+http://64.31.23.207:80/series/96795792/50165825/5545963.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/faBNEDMsmLrW1pjpgPG862S82WJ.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S01E03
+http://64.31.23.207:80/series/96795792/50165825/5545962.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/oLHWkIrTDWYftNOqg7f92ML3Wq.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S01E02
+http://64.31.23.207:80/series/96795792/50165825/5545961.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/nUW0V7rsXuQHgMfnhJAJWBTRfYN.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Naked Attraction S01E01
+http://64.31.23.207:80/series/96795792/50165825/5545960.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IES5" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E08
+http://64.31.23.207:80/series/96795792/50165825/5540815.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IES4" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E07
+http://64.31.23.207:80/series/96795792/50165825/5540814.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IES3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E06
+http://64.31.23.207:80/series/96795792/50165825/5540813.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IES2" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E05
+http://64.31.23.207:80/series/96795792/50165825/5540812.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IES1" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E04
+http://64.31.23.207:80/series/96795792/50165825/5540811.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IES0" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E03
+http://64.31.23.207:80/series/96795792/50165825/5540810.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IER9" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E02
+http://64.31.23.207:80/series/96795792/50165825/5540809.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IER8" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S02E01
+http://64.31.23.207:80/series/96795792/50165825/5540808.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IER7" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E08
+http://64.31.23.207:80/series/96795792/50165825/5540807.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/IER6" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E07
+http://64.31.23.207:80/series/96795792/50165825/5540806.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sS6fPVlo8q9TSv5fP2i0LsuCjzh.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E06
+http://64.31.23.207:80/series/96795792/50165825/5540805.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yjlCXBu1Hi10AAuenK5WKilHfGS.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E05
+http://64.31.23.207:80/series/96795792/50165825/5540804.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/67ProRYiKTZyi38wtc5A5nxtvnt.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E04
+http://64.31.23.207:80/series/96795792/50165825/5540803.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xVRtt4fTSejEQybcHeiCk0QsBN5.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E03
+http://64.31.23.207:80/series/96795792/50165825/5540802.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/g0j9vGsftdOIJ9v2K1R86rNtgY2.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E02
+http://64.31.23.207:80/series/96795792/50165825/5540801.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/dkqBHXCFTNvX6fCQGqjDblry3VP.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Crashing S01E01
+http://64.31.23.207:80/series/96795792/50165825/5540800.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xIXaacnWNDscTn6eBdFyK8H6RZL.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",A Fábrica S02E06
 http://64.31.23.207:80/series/96795792/50165825/5518941.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yWdjT8vSRe5kQItapU9cRPHOQjL.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",A Fábrica S02E05
@@ -21,6 +361,86 @@ http://64.31.23.207:80/series/96795792/50165825/5518934.mp4
 http://64.31.23.207:80/series/96795792/50165825/5518933.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/79gZ9H2i8n43BKUQ7rLqObXyodE.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",A Fábrica S01E01
 http://64.31.23.207:80/series/96795792/50165825/5518932.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/DKW7" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E08
+http://64.31.23.207:80/series/96795792/50165825/5513393.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/DKW6" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E07
+http://64.31.23.207:80/series/96795792/50165825/5513392.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/xEUAmVEexC0l1fpguxCIpGOqT79.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E06
+http://64.31.23.207:80/series/96795792/50165825/5513391.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2KKqYPk5BhrfYi8Vd5Rfx1IiT5W.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E05
+http://64.31.23.207:80/series/96795792/50165825/5513390.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/oZq71CdhbJ2Z4MaZTI0iu1PaU5j.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E04
+http://64.31.23.207:80/series/96795792/50165825/5513389.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/1WGoNtARkIJCNezs7xDGR6Vwszk.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E03
+http://64.31.23.207:80/series/96795792/50165825/5513388.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/8RHrGhQt7rP3aTZ4Bjp5jRGocK7.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E02
+http://64.31.23.207:80/series/96795792/50165825/5513387.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/duleMtfadEGfdnngaWLZbAj25S3.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Utopia S01E01
+http://64.31.23.207:80/series/96795792/50165825/5513386.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S05E06
+http://64.31.23.207:80/series/96795792/50165825/5504676.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S05E05
+http://64.31.23.207:80/series/96795792/50165825/5504675.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S05E04
+http://64.31.23.207:80/series/96795792/50165825/5504674.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S05E03
+http://64.31.23.207:80/series/96795792/50165825/5504673.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S05E02
+http://64.31.23.207:80/series/96795792/50165825/5504672.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S05E01
+http://64.31.23.207:80/series/96795792/50165825/5504671.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E08
+http://64.31.23.207:80/series/96795792/50165825/5504670.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E07
+http://64.31.23.207:80/series/96795792/50165825/5504669.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E06
+http://64.31.23.207:80/series/96795792/50165825/5504668.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E05
+http://64.31.23.207:80/series/96795792/50165825/5504667.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E04
+http://64.31.23.207:80/series/96795792/50165825/5504666.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E03
+http://64.31.23.207:80/series/96795792/50165825/5504665.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E02
+http://64.31.23.207:80/series/96795792/50165825/5504664.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S04E01
+http://64.31.23.207:80/series/96795792/50165825/5504663.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E10
+http://64.31.23.207:80/series/96795792/50165825/5504662.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E09
+http://64.31.23.207:80/series/96795792/50165825/5504661.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E08
+http://64.31.23.207:80/series/96795792/50165825/5504660.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E07
+http://64.31.23.207:80/series/96795792/50165825/5504659.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E06
+http://64.31.23.207:80/series/96795792/50165825/5504658.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E05
+http://64.31.23.207:80/series/96795792/50165825/5504657.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E04
+http://64.31.23.207:80/series/96795792/50165825/5504656.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E03
+http://64.31.23.207:80/series/96795792/50165825/5504655.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E02
+http://64.31.23.207:80/series/96795792/50165825/5504654.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/AQFJ" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S03E01
+http://64.31.23.207:80/series/96795792/50165825/5504653.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/eup1cwYnFO7gyR1lt0dO8C13gL5.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S02E04
+http://64.31.23.207:80/series/96795792/50165825/5504652.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/2yh3NOJRIOtCOj9ibrr2XSYIH3e.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S02E03
+http://64.31.23.207:80/series/96795792/50165825/5504651.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/sZl9prkteZyCmvlH85qgJ31vYJ7.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S02E02
+http://64.31.23.207:80/series/96795792/50165825/5504650.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tTNE16WuAzeHdpC9hBi1nMHZvI7.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S02E01
+http://64.31.23.207:80/series/96795792/50165825/5504649.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9GzsWRYZo0N6uFFgQL7tHLHbtDn.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S01E04
+http://64.31.23.207:80/series/96795792/50165825/5504648.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/9Op6SLYuywuDMajDtDxzkgYIQIR.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S01E03
+http://64.31.23.207:80/series/96795792/50165825/5504647.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ynXtGoHxPd50m0zzGtUPNIMGnP8.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S01E02
+http://64.31.23.207:80/series/96795792/50165825/5504646.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/tbuIxhlU1775FyOBQqkkZrxVxyn.jpg" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Top Boy Summerhouse S01E01
+http://64.31.23.207:80/series/96795792/50165825/5504645.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/GHB3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Trigger Happy TV S01E15
 http://64.31.23.207:80/series/96795792/50165825/5449568.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/GHB3" group-title="SERIES | CHANNEL 4" media="true" media-dir="/SERIES/CHANNEL 4",Trigger Happy TV S01E14

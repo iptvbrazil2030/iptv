@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w227_and_h127_bestv2/eoQGJZsJ6zE8AScT2unKMBWz9.jpg" group-title="SERIES | ABC" media="true" media-dir="/SERIES/ABC",Jaadugar: A Witch in Mongolia S01E12
+http://64.31.23.207:80/series/96795792/50165825/5726877.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/WAD7" group-title="SERIES | ABC" media="true" media-dir="/SERIES/ABC",Hanaori-san Still Wants to Fight in the Next Life S01E12
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2701706.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/VYD4" group-title="SERIES | ABC" media="true" media-dir="/SERIES/ABC",Hanaori-san Still Wants to Fight in the Next Life S01E11

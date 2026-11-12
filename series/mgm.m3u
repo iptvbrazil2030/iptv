@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4bOFNHpSENLukOUZqbPP1Rw0Zue.jpg" group-title="SERIES | MGM" media="true" media-dir="/SERIES/MGM",O Instituto S02E01
+http://64.31.23.207:80/series/96795792/50165825/5728029.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/72JK3w67KpJkSeEFsHUQzz9yY3x.jpg" group-title="SERIES | MGM" media="true" media-dir="/SERIES/MGM",A Ilha do Tesouro S01E01
 http://64.31.23.207:80/series/96795792/50165825/5666565.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/azzwa6N5hXTaLsMTrVo69lCsY3C.jpg" group-title="SERIES | MGM" media="true" media-dir="/SERIES/MGM",American Hostage S01E06

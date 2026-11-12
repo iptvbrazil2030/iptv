@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://lgfp.one/XKO1" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",The Kardashians S08E05
+http://64.31.23.207:80/series/96795792/50165825/5727890.mp4
+#EXTINF:-1 tvg-logo="http://lgfp.one/XJN7" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",American Horror Story S13E13
+http://64.31.23.207:80/series/96795792/50165825/5727434.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/4MpmWUgph9ZihVri3AS4p4Wy0ER.jpg" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",Tudo e Justo S02E03
+http://64.31.23.207:80/series/96795792/50165825/5726872.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/42DmBZJEAJlJiYRqSqU3vMHHaCE.jpg" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",Tudo e Justo S02E02
+http://64.31.23.207:80/series/96795792/50165825/5726871.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/yt3XfSi55uMZZuBBuPydkYxBETG.jpg" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",Tudo e Justo S02E01
+http://64.31.23.207:80/series/96795792/50165825/5726870.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/UUT9" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",Paradise: O Podcast Oficial S02E09
 http://64.31.23.207:80/series/96795792/50165825/5660618.mp4
 #EXTINF:-1 tvg-logo="http://lgfp.one/UUT9" group-title="SERIES | HULU" media="true" media-dir="/SERIES/HULU",Paradise: O Podcast Oficial S02E08

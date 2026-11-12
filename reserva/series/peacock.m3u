@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/ilZ1ttIpotHAnXPYbLbh9654S1c.jpg" group-title="SERIES | PEACOCK" media="true" media-dir="/SERIES/PEACOCK",Line of Fire S01E01
+http://64.31.23.207:80/series/96795792/50165825/5727929.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/puMm9bzDsfrJVdXVX0Yhy7ACkCj.jpg" group-title="SERIES | PEACOCK" media="true" media-dir="/SERIES/PEACOCK",Crystal Lake S01E08
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2702811.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/pfoH6GszgTLRJMwSPkgLxk0a6b3.jpg" group-title="SERIES | PEACOCK" media="true" media-dir="/SERIES/PEACOCK",Crystal Lake S01E07

@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://lgfp.one/XKV1" group-title="SERIES | FOX" media="true" media-dir="/SERIES/FOX",Os Simpsons S38E01
+http://64.31.23.207:80/series/96795792/50165825/5727963.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/aO1QLgfvaX8Th1VELPT8GFxiKyP.jpg" group-title="SERIES | FOX" media="true" media-dir="/SERIES/FOX",Murder in a Small Town S02E04
+http://64.31.23.207:80/series/96795792/50165825/5726856.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/zjQgr1fAqDlUwubQjaXEIyZVHdc.jpg" group-title="SERIES | FOX" media="true" media-dir="/SERIES/FOX",Chefs de Alto Nível com Gordon Ramsay S05E02
+http://64.31.23.207:80/series/96795792/50165825/5726819.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/k8N81vBv5cJgnHQ8zeCP5n4qC8d.jpg" group-title="SERIES | FOX" media="true" media-dir="/SERIES/FOX",Chefs de Alto Nível com Gordon Ramsay S05E01
+http://64.31.23.207:80/series/96795792/50165825/5726818.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/rmS3y0Re5Hj4gjaJfxm0DgxZcs2.jpg" group-title="SERIES | FOX" media="true" media-dir="/SERIES/FOX",Murder in a Small Town S02E03
 http://64.31.23.207:80/series/96795792/50165825/5722953.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w300/84sgsgrce2zIxRqUXduS2ZspbXE.jpg" group-title="SERIES | FOX" media="true" media-dir="/SERIES/FOX",Murder in a Small Town S02E02

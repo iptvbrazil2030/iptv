@@ -22,14 +22,14 @@ Cadastre como segunda instancia do IPTV Simple, desativada; ative se a principal
 https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u
 ```
 
-Ultima atualizacao: 2026-11-12 04:01
+Ultima atualizacao: 2026-11-17 04:01
 
 | Arquivo | Entradas | Tamanho |
 |---|---:|---:|
 | [filmes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/filmes.m3u) | 35872 | 9.9 MB |
-| [playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/playlist.m3u) | 1112 | 0.3 MB |
+| [playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/playlist.m3u) | 1063 | 0.3 MB |
 | [reserva/filmes.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/filmes.m3u) | 35872 | 9.7 MB |
-| [reserva/playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u) | 1112 | 0.3 MB |
+| [reserva/playlist.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u) | 1063 | 0.3 MB |
 | [reserva/series/a-e.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/a-e.m3u) | 14 | 0.0 MB |
 | [reserva/series/abc.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/abc.m3u) | 2528 | 0.6 MB |
 | [reserva/series/amazon-prime-video.m3u](https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/series/amazon-prime-video.m3u) | 24788 | 7.0 MB |

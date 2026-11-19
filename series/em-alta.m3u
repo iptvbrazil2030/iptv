@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/u58fg3LXeXdGYaY9g3KRWYHJZHJ.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E03
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501385.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aOH2ywlomD7ncXtpwYr2BCqAvrV.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E21
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501403.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pNDtrZNdJH0doGn0XfzoLM5uoPt.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E22
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501404.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2FwKuhAHrha3Np1nb5cit4lRJLQ.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Febre do Ouro S16E23
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2501405.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/i5rDlsFZiv6Sd8zBPxow7Opo0oS.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S03E01
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2629466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ymZZt4znFjYfkc7w2ECr0qeHCF5.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Georgie e Mandy Seu Primeiro Casamento S03E02
@@ -287,3 +295,5 @@ http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696534.mp4
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696535.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/v8MOkDSj73pXXXjICzIENuf0vWm.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Apenas um Show: As Fitas Perdidas S01E18
 http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2696536.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w1280/xtHClt0kKnHftBmjutZkAbCELO0.jpg" group-title="SERIES | EM ALTA" media="true" media-dir="/SERIES/EM ALTA",Med Cezir  Vidas Alheias S01E01
+http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2697326.mp4

@@ -22,7 +22,7 @@ Cadastre como segunda instancia do IPTV Simple, desativada; ative se a principal
 https://raw.githubusercontent.com/iptvbrazil2030/iptv/main/reserva/playlist.m3u
 ```
 
-Ultima atualizacao: 2026-11-27 09:07
+Ultima atualizacao: 2026-11-28 11:56
 
 | Arquivo | Entradas | Tamanho |
 |---|---:|---:|
